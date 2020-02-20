@@ -32,3 +32,6 @@ Shizhong Liao, **Xiao Zhang (通讯作者)**. Online kernel selection via tensor
 
 **Xiao Zhang**, Yun Liao, Shizhong Liao. A survey on online kernel selection for online kernel learning. WIREs Data Mining and Knowledge Discovery, 9(2): e1295, 2019. (SCI 3 区)
 
+Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  pages 791–800, 2019.  (CCF B 类会议)
+
+Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), pages 2256–2261, 2018. (CCF C 类会议, Best Student Paper)
