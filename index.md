@@ -21,3 +21,6 @@
 - 2015-2019，天津大学，智能与计算学部，计算机应用技术专业，博士，导师：廖士中 教授 
 - 2012-2015，西北工业大学，理学院，计算数学专业，硕士，导师：陆全 教授
 
+### 代表英文论文
+Xiao Zhang, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403. (CCF A 类会议)
+
