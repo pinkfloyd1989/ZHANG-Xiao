@@ -6,7 +6,7 @@
       <p><b>电子邮箱：zhangx_89@126.com</b></p>
     </td>
     <td width="50%">
-      <img src="/cikm2019.jpg" width="60%">      
+      <img src="/cikm2019.jpg" width="55%">      
     </td>
   </tr>
 </table>
@@ -24,7 +24,11 @@
 ### 代表英文论文
 **Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403. (CCF A 类会议)
 
-**Xiao Zhang**, Shizhong Liao*. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018. (CCF A 类会议)
+**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018. (CCF A 类会议)
 
+Shizhong Liao, **Xiao Zhang (通讯作者)**. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), pages 801–810, 2019. (CCF B 类会议)
 
+**Xiao Zhang**, Shizhong Liao. Tensor completion via multi-shared-modes canonical correlation analysis. Neurocomputing, 205: 106–115, 2016. (SCI 2 区, CCF C 类期刊)
+
+**Xiao Zhang**, Yun Liao, Shizhong Liao. A survey on online kernel selection for online kernel learning. WIREs Data Mining and Knowledge Discovery, 9(2): e1295, 2019. (SCI 3 区)
 
