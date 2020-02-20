@@ -35,3 +35,10 @@ Shizhong Liao, **Xiao Zhang (通讯作者)**. Online kernel selection via tensor
 Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  pages 791–800, 2019.  (CCF B 类会议)
 
 Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), pages 2256–2261, 2018. (CCF C 类会议, Best Student Paper)
+
+### 代表中文论文
+**张骁**, 廖士中. 基于局部后悔的在线核选择.  计算机学报, 42(1): 61–72, 2019. (CCF A 类中文期刊)
+
+**张骁**, 胡清华, 廖士中. 基于多源共享因子的多张量填充. 中国科学 : 信息科学, 46(7): 819–833, 2016. (CCF A 类中文期刊)
+
+廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092. (CCF B 类中文期刊)
