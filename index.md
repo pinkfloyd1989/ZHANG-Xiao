@@ -1,5 +1,7 @@
-### 个人介绍
+### 个人简介
+#### 张骁，男，中国人民大学，高瓴人工智能学院，电子邮箱：zhangx_89@126.com
 已在本领域相关的国内外学术期刊和会议上发表论文10 篇，其中第一作者及通讯作者论文 7 篇，包括计算机学会 A 类国际会议 2 篇、计算机学会 B 类国际会议 1 篇、计算机学会 A 类国内期刊 2 篇、SCI 二区期刊 1 篇和 SCI 三区期刊 1 篇，并获得 CCDM2016、ICPR2018 的优秀学生论文奖。
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
