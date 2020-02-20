@@ -24,3 +24,7 @@
 ### 代表英文论文
 **Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403. (CCF A 类会议)
 
+**Xiao Zhang**, Shizhong Liao*. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018. (CCF A 类会议)
+
+
+
