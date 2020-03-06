@@ -6,7 +6,7 @@
       <p><b>电子邮箱：zhangx_89@126.com</b></p>
     </td>
     <td width="50%">
-      <img src="/JP-h.jpg" width="35%">      
+      <img src="/JP-h.jpg" width="50%">      
     </td>
   </tr>
 </table>
