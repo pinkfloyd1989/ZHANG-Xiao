@@ -5,7 +5,7 @@
       <p><b>中国人民大学，高瓴人工智能学院</b></p>
       <p><b>电子邮箱：zhangx_89@126.com</b></p>
     </td>
-    <td width="50%">
+    <td width="70%">
       <img src="/JP-h.jpg" width="50%">      
     </td>
   </tr>
