@@ -39,7 +39,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via i
 Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), pages 2256–2261, 2018. (CCF C 类会议, Best Student Paper)
 
 ### 代表中文论文
-**张骁**, 廖士中. 基于局部后悔的在线核选择.  计算机学报, 42(1): 61–72, 2019. (CCF A 类中文期刊)
+**张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019. (CCF A 类中文期刊)
 
 **张骁**, 胡清华, 廖士中. 基于多源共享因子的多张量填充. 中国科学 : 信息科学, 46(7): 819–833, 2016. (CCF A 类中文期刊)
 
@@ -48,7 +48,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 ### 科研项目
 面向多场景、多任务、转化延迟场景的推荐算法研究, 2020-2021, 主持. (腾讯微信犀牛鸟专项研究计划)
 
-大规模核方法模型选择的随机方法，2017–2020, 参与. (国家自然科学基金面上项目)
+大规模核方法模型选择的随机方法, 2017–2020, 参与. (国家自然科学基金面上项目)
 
 ### 主要获奖
 - 2018.09  博士研究生国家奖学金
