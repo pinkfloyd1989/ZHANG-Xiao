@@ -14,7 +14,7 @@
 ### 个人简介
 研究兴趣：在线机器学习，推荐系统
 
-已在本领域相关的国内外学术期刊和会议上发表论文10 篇，其中第一作者及通讯作者论文 7 篇，包括计算机学会 A 类国际会议 2 篇、计算机学会 B 类国际会议 1 篇、计算机学会 A 类国内期刊 2 篇、SCI 二区期刊 1 篇和 SCI 三区期刊 1 篇，并获得 CCDM2016、ICPR2018 的优秀学生论文奖。
+已在本领域相关的国内外学术期刊和会议上发表论文 11 篇，其中第一作者及通讯作者论文 7 篇，包括计算机学会 A 类国际会议 3 篇、计算机学会 B 类国际会议 1 篇、计算机学会 A 类国内期刊 2 篇、SCI 二区期刊 1 篇和 SCI 三区期刊 1 篇，并获得 CCDM2016、ICPR2018 的优秀学生论文奖。
 
 ### 教育背景
 - 2015-2019, 天津大学，智能与计算学部，计算机应用技术专业，博士，导师：廖士中 教授 
@@ -22,7 +22,9 @@
 - 2008-2012, 山西大学，数学科学学院，信息与计算科学专业，本科
 
 ### 代表英文论文
-**Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403. (CCF A 类会议)
+**Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019. (CCF A 类会议)
+
+**Xiao Zhang**, Shizhong Liao. Hypothesis sketching for online kernel selection in continuous kernel space (IJCAI 2020), accepted, 2020. (CCF A 类会议)
 
 **Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018. (CCF A 类会议)
 
@@ -43,8 +45,10 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092. (CCF B 类中文期刊)
 
-### 参与项目
-大规模核方法模型选择的随机方法，2017–2020. (国家自然科学基金面上项目)
+### 科研项目
+面向多场景、多任务、转化延迟场景的推荐算法研究, 2020-2021, 主持. (腾讯微信犀牛鸟专项研究计划)
+
+大规模核方法模型选择的随机方法，2017–2020, 参与. (国家自然科学基金面上项目)
 
 ### 主要获奖
 - 2018.09  博士研究生国家奖学金
