@@ -12,9 +12,9 @@
 </table>
 
 ### 个人简介
-研究兴趣：在线机器学习, 模型选择, 推荐系统，排序学习
+研究兴趣：在线机器学习, 因果学习, 模型选择, 推荐系统，排序学习
 
-已在本领域相关的国内外学术期刊和会议上发表论文 13 篇，其中以第一作者或通讯作者文章 10 篇，涵盖 ICML、SIGIR、AAAI、IJCAI、CIKM 等人工智能顶级国际会议，及《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 AAAI 2020、IJCAI 2021 等多个国际会议的程序委员会委员及资深程序委员会委员。近一年来主持科研基金项目 4 项，包括国家自然科学基金青年基金项目 1 项、腾讯微信犀牛鸟专项研究计划 1 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项。
+已在本领域相关的国内外学术期刊和会议上发表论文十余篇，其中以第一作者或通讯作者文章 10 篇，涵盖 ICML、SIGIR、AAAI、IJCAI、WWW、CIKM 等人工智能顶级国际会议，及《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、SIGIR、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。近一年来主持科研基金项目 5 项，包括国家自然科学基金青年基金项目 1 项、腾讯微信犀牛鸟专项研究计划 1 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
 
 ### 教育背景
 - 2015-2019, 天津大学，智能与计算学部，计算机应用技术专业，博士，导师：廖士中 教授 
@@ -22,7 +22,9 @@
 - 2008-2012, 山西大学，数学科学学院，信息与计算科学专业，本科
 
 ### 代表英文论文
-**Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), accepted, 2021. (CCF A 类会议)
+Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), accepted, 2022. (CCF A 类会议)
+
+**Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), 41-50, 2021. (CCF A 类会议)
 
 **Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019. (CCF A 类会议)
 
