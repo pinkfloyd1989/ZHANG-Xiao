@@ -6,7 +6,7 @@
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
     <td width="60%">
-      <img src="/JP-h.jpg" width="50%">      
+      <img src="/JP-h.jpg" width="30%">      
     </td>
   </tr>
 </table>
