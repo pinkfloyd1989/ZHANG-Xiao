@@ -5,7 +5,7 @@
       <p><b>中国人民大学，高瓴人工智能学院，博士后研究员</b></p>
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
-    <td width="70%">
+    <td width="60%">
       <img src="/JP-h.jpg" width="50%">      
     </td>
   </tr>
