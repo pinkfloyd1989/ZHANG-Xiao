@@ -30,7 +30,7 @@
 ### 代表英文论文
 **Xiao Zhang**, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen. Counteracting user attention bias in music streaming recommendation via reward modification. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), accepted, 2022. (CCF A 类会议)
 
-Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), accepted, 2022. (CCF A 类会议)
+Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), 224–233, 2022. (CCF A 类会议)
 
 **Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), 41-50, 2021. (CCF A 类会议)
 
