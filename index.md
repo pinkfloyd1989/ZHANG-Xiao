@@ -1,11 +1,11 @@
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="60%">
       <h1>张骁</h1>
       <p><b>中国人民大学，高瓴人工智能学院，准聘助理教授</b></p>
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
-    <td width="60%">
+    <td width="40%">
       <img src="/zx-1.jpg" width="30%">      
     </td>
   </tr>
