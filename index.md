@@ -29,7 +29,7 @@
 - 2008-2012, 山西大学，数学科学学院，信息与计算科学专业，本科
 
 ### 代表英文论文
-**Xiao Zhang**, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen. Counteracting user attention bias in music streaming recommendation via reward modification. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), accepted, 2022. (CCF A 类会议)
+**Xiao Zhang**, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen. Counteracting user attention bias in music streaming recommendation via reward modification. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), 2504–2514, 2022. (CCF A 类会议)
 
 Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), 224–233, 2022. (CCF A 类会议)
 
