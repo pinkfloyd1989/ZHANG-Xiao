@@ -43,15 +43,15 @@ Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A
 
 **Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), 41-50, 2021.  
 
-**Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019.  
-
 **Xiao Zhang**, Shizhong Liao, Jun Xu, Ji-Rong Wen. Regret bounds for online kernel selection in continuous kernel space. Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), 10931-10938, 2021. 
 
 **Xiao Zhang**, Shizhong Liao. Hypothesis sketching for online kernel selection in continuous kernel space. Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020), 2498–2504, 2020.  
 
-**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018.  
+**Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019.  
 
 Shizhong Liao, **Xiao Zhang***. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), pages 801–810, 2019. 
+
+**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018.  
 
 **Xiao Zhang**, Shizhong Liao. Tensor completion via multi-shared-modes canonical correlation analysis. Neurocomputing, 205: 106–115, 2016.
 
