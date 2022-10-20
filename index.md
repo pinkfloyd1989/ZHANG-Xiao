@@ -28,37 +28,46 @@
 - 2012-2015, 西北工业大学，理学院，计算数学专业，硕士 (推荐免试)，导师：陆全 教授
 - 2008-2012, 山西大学，数学科学学院，信息与计算科学专业，本科
 
+### 预印本论文
+**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial Information as Full: Reward Imputation with Sketching in Bandits, 
+https://doi.org/10.48550/arXiv.2210.06719
+
 ### 代表英文论文
-**Xiao Zhang**, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen. Counteracting user attention bias in music streaming recommendation via reward modification. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), 2504–2514, 2022. (CCF A 类会议)
+Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong, Ji-Rong Wen. Separating examination and trust bias from click predictions for unbiased relevance ranking. Proceedings of the 16th ACM International Conference on Web Search and Data Mining (WSDM 2023), accepted.
 
-Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), 224–233, 2022. (CCF A 类会议)
+Haonan Jia, **Xiao Zhang**, Jun Xu, Wei Zeng, Hao Jiang, Xiaohui Yan. Variance reduction for deep Q-Learning using stochastic recursive gradient, Proceedings of the 29th International Conference on Neural Information Processing (ICONIP 2022), accepted.
 
-**Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), 41-50, 2021. (CCF A 类会议)
+**Xiao Zhang**, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen. Counteracting user attention bias in music streaming recommendation via reward modification. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), 2504–2514, 2022.  
 
-**Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019. (CCF A 类会议)
+Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), 224–233, 2022.  
 
-**Xiao Zhang**, Shizhong Liao, Jun Xu, Ji-Rong Wen. Regret bounds for online kernel selection in continuous kernel space. Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), accepted, 2021. (CCF A 类会议)
+**Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), 41-50, 2021.  
 
-**Xiao Zhang**, Shizhong Liao. Hypothesis sketching for online kernel selection in continuous kernel space. Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020), 2498–2504, 2020. (CCF A 类会议)
+**Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019.  
 
-**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018. (CCF A 类会议)
+**Xiao Zhang**, Shizhong Liao, Jun Xu, Ji-Rong Wen. Regret bounds for online kernel selection in continuous kernel space. Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), 10931-10938, 2021. 
 
-Shizhong Liao, **Xiao Zhang (通讯作者)**. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), pages 801–810, 2019. (CCF B 类会议)
+**Xiao Zhang**, Shizhong Liao. Hypothesis sketching for online kernel selection in continuous kernel space. Proceedings of the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020), 2498–2504, 2020.  
+
+**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018.  
+
+Shizhong Liao, **Xiao Zhang***. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), pages 801–810, 2019. 
 
 **Xiao Zhang**, Shizhong Liao. Tensor completion via multi-shared-modes canonical correlation analysis. Neurocomputing, 205: 106–115, 2016. (SCI 2 区, CCF C 类期刊)
 
 **Xiao Zhang**, Yun Liao, Shizhong Liao. A survey on online kernel selection for online kernel learning. WIREs Data Mining and Knowledge Discovery, 9(2): e1295, 2019. (SCI 3 区)
 
-Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  pages 791–800, 2019.  (CCF B 类会议)
+Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  pages 791–800, 2019.  
 
-Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), pages 2256–2261, 2018. (CCF C 类会议, Best Student Paper)
+Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), pages 2256–2261, 2018. (**Best Student Paper**)
 
 ### 代表中文论文
-**张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019. (CCF A 类中文期刊)
+**张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019.  
 
-**张骁**, 胡清华, 廖士中. 基于多源共享因子的多张量填充. 中国科学 : 信息科学, 46(7): 819–833, 2016. (CCF A 类中文期刊)
+**张骁**, 胡清华, 廖士中. 基于多源共享因子的多张量填充. 中国科学 : 信息科学, 46(7): 819–833, 2016.  
 
-廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092. (CCF B 类中文期刊)
+廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092.  
+
 
 ### 主持项目
 
