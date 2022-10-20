@@ -53,9 +53,9 @@ Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A
 
 Shizhong Liao, **Xiao Zhang***. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), pages 801–810, 2019. 
 
-**Xiao Zhang**, Shizhong Liao. Tensor completion via multi-shared-modes canonical correlation analysis. Neurocomputing, 205: 106–115, 2016. (SCI 2 区, CCF C 类期刊)
+**Xiao Zhang**, Shizhong Liao. Tensor completion via multi-shared-modes canonical correlation analysis. Neurocomputing, 205: 106–115, 2016.
 
-**Xiao Zhang**, Yun Liao, Shizhong Liao. A survey on online kernel selection for online kernel learning. WIREs Data Mining and Knowledge Discovery, 9(2): e1295, 2019. (SCI 3 区)
+**Xiao Zhang**, Yun Liao, Shizhong Liao. A survey on online kernel selection for online kernel learning. WIREs Data Mining and Knowledge Discovery, 9(2): e1295, 2019. 
 
 Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  pages 791–800, 2019.  
 
