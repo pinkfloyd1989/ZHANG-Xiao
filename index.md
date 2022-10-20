@@ -29,7 +29,7 @@
 - 2008-2012, 山西大学，数学科学学院，信息与计算科学专业，本科
 
 ### 预印本论文
-**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial Information as Full: Reward Imputation with Sketching in Bandits, 
+**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 https://doi.org/10.48550/arXiv.2210.06719
 
 ### 代表英文论文
