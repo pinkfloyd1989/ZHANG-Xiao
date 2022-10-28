@@ -32,6 +32,8 @@
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 https://doi.org/10.48550/arXiv.2210.06719
 
+Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong, Ji-Rong Wen. Law article-enhanced legal case matching: A model-agnostic causal learning approach, https://arxiv.org/abs/2210.11012
+
 ### 代表英文论文
 Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong, Ji-Rong Wen. Separating examination and trust bias from click predictions for unbiased relevance ranking. Proceedings of the 16th ACM International Conference on Web Search and Data Mining (WSDM 2023), accepted.
 
