@@ -55,17 +55,17 @@ Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A
 
 **Xiao Zhang**, Shizhong Liao. Incremental randomized sketching for online kernel learning. Proceedings of the 36th International Conference on Machine Learning (ICML 2019), 7394–7403, 2019.  
 
-Shizhong Liao, **Xiao Zhang***. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), pages 801–810, 2019. 
+Shizhong Liao, **Xiao Zhang***. Online kernel selection via tensor sketching. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019), 801–810, 2019. 
 
-**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), pages 3118–3124, 2018.  
+**Xiao Zhang**, Shizhong Liao. Online kernel selection via incremental sketched kernel alignment. Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI 2018), 3118–3124, 2018.  
 
 **Xiao Zhang**, Shizhong Liao. Tensor completion via multi-shared-modes canonical correlation analysis. Neurocomputing, 205: 106–115, 2016.
 
 **Xiao Zhang**, Yun Liao, Shizhong Liao. A survey on online kernel selection for online kernel learning. WIREs Data Mining and Knowledge Discovery, 9(2): e1295, 2019. 
 
-Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  pages 791–800, 2019.  
+Shan Xu, **Xiao Zhang**, Shizhong Liao. New online kernel ridge regression via incremental predictive sampling. Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM 2019),  791–800, 2019.  
 
-Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), pages 2256–2261, 2018. (**Best Student Paper**)
+Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for online kernel learning. Proceedings of the 24th International Conference on Pattern Recognition (ICPR 2018), 2256–2261, 2018. (**Best Student Paper**)
 
 ### 代表中文论文
 **张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019.  
