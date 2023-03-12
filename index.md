@@ -37,7 +37,7 @@ Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong, Ji-Rong Wen. Law article-e
 ### 代表英文论文
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.
 
-Zihua Si, Zhongxiang Sun, **Xiao Zhang**, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen. Enhancing recommendation with search data in a causal learning manner. ACM Transactions on Information Systems, 2023, accepted.
+Zihua Si, Zhongxiang Sun, **Xiao Zhang**, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen. Enhancing recommendation with search data in a causal learning manner. ACM Transactions on Information Systems (TOIS), 2023, accepted.
 
 Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong, Ji-Rong Wen. Separating examination and trust bias from click predictions for unbiased relevance ranking. Proceedings of the 16th ACM International Conference on Web Search and Data Mining (WSDM 2023), accepted.
 
