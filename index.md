@@ -6,7 +6,7 @@
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
     <td width="40%">
-      <img src="/zx-1.jpg" width="30%">      
+      <img src="https://github.com/pinkfloyd1989/ZHANG-Xiao/blob/master/zx-1.jpg" width="30%">      
     </td>
   </tr>
 </table>
