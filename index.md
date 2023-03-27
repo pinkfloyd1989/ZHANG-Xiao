@@ -1,15 +1,27 @@
+<!--
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="60%">
       <h1>张骁</h1>
       <p><b>中国人民大学，高瓴人工智能学院，准聘助理教授</b></p>
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" width="30%">
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" width="30%">      
     </td>
   </tr>
 </table>
+-->
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 30%; margin-right: 50px;">
+  <div>
+    <h1 style="margin: 0;">张骁</h1>
+    <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，准聘助理教授</p>
+    <p style="margin: 0; font-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
+  </div>
+</div>
+
 
 ### 研究兴趣
 - 在线机器学习：在线机器学习理论与算法设计、在线模型选择.
