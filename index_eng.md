@@ -18,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
   <div>
     <h1 style="margin: 0;">Xiao Zhang</h1>
-    <p style="margin: 0; font-size: 1.2em;">Renmin University of China，Gaoling School of Artificial Intelligence，Tenure-Track Assistant Professor</p>
+    <p style="margin: 0; font-size: 1.2em;">Tenure-Track Assistant Professor, Gaoling School of Artificial Intelligence, Renmin University of China</p>
     <p style="margin: 0; font-size: 1.2em;">e-mail：zhangx89@ruc.edu.cn</p>
   </div>
 </div>
