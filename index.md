@@ -45,15 +45,18 @@
 - 2012-2015, 西北工业大学，理学院，计算数学专业，硕士 (推荐免试)，导师：陆全 教授
 - 2008-2012, 山西大学，数学科学学院，信息与计算科学专业，本科
 
+
+### 教授课程
+- 高级强化学习（研究生课程）
+- 海量数据挖掘（研究生课程）
+- 
+
 ### 预印本论文
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 https://doi.org/10.48550/arXiv.2210.06719
 
 Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong, Ji-Rong Wen. Law article-enhanced legal case matching: A model-agnostic causal learning approach, https://arxiv.org/abs/2210.11012
 
-### 教授课程
-- 高级强化学习（研究生课程）
-- 海量数据挖掘（研究生课程）
 
 ### 代表英文论文
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.
