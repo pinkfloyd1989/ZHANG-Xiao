@@ -51,7 +51,7 @@ https://doi.org/10.48550/arXiv.2210.06719
 
 Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong, Ji-Rong Wen. Law article-enhanced legal case matching: A model-agnostic causal learning approach, https://arxiv.org/abs/2210.11012
 
-### PUBLICATIONS
+### REPRESENTATIVE PAPERS
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.
 
 Zihua Si, Zhongxiang Sun, **Xiao Zhang**, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen. Enhancing recommendation with search data in a causal learning manner. ACM Transactions on Information Systems (TOIS), 2023, accepted.
