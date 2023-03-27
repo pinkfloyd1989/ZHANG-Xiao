@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>张骁</h1>
+      <h1>张 骁</h1>
       <p><b>中国人民大学，高瓴人工智能学院，准聘助理教授</b></p>
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
