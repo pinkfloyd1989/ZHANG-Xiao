@@ -23,7 +23,7 @@
   </div>
 </div>
 
-[Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/index_eng.html)
+[Chinese Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/)
 
 ### PERSONAL PROFILE
 Xiao Zhang is a tenure-track assistant professor at Gaoling School of Artificial Intelligence, Renmin University of China. He was a post-doc researcher at GSAI, Renmin University of China from 2020 to 2022, supervised by Ji-Rong Wen. He received his Ph.D. in College of Intelligence and Computing from Tianjin University, in 2019, supervised by Shizhong Liao. His research interests include online learning, causal learning, information retrieval and model selection. He has published over 20 papers on top-tier conferences and journals in artificial intelligence, e.g., ICML, KDD, SIGIR, AAAI, IJCAI, WWW, CIKM, etc.
