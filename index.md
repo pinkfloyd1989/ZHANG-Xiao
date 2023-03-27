@@ -23,7 +23,8 @@
   </div>
 </div>
 
-[English Homepage](https://github.com/pinkfloyd1989/ZHANG-Xiao/blob/master/index_eng.md){: .btn .btn-outline }
+
+[English Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/index_eng.html){: .btn .btn-outline }
 
 
 
