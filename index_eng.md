@@ -24,12 +24,10 @@
 </div>
 
 
-
-
 ### RESEARCH INTERESTS
 - Online learning; Causal learning; Recommender System; Learning to Rank.
 
-- Research Interests: Dr. Xiao Zhang's group focuses on developing credible, controllable and efficient online machine learning theory and algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
+- *Research Interests*: Dr. Xiao Zhang's group focuses on developing credible, controllable and efficient online machine learning theory and algorithm in sequential prediction/decision scenarios, especially the new paradigm of causal machine learning. They aim to develop useful and robust machine learning algorithms in information retrieval applications.
 
 ### PERSONAL PROFILE
 Xiao Zhang is a tenure-track assistant professor at Gaoling School of Artificial Intelligence, Renmin University of China. He was a post-doc researcher at GSAI, Renmin University of China from 2020 to 2022, supervised by Ji-Rong Wen. He received his Ph.D. in College of Intelligence and Computing from Tianjin University, in 2019, supervised by Shizhong Liao. His research interests include online learning, causal learning, information retrieval and model selection. He has published over 20 papers on top-tier conferences and journals in artificial intelligence, e.g., ICML, KDD, SIGIR, AAAI, IJCAI, WWW, CIKM, etc.
