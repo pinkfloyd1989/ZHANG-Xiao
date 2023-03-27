@@ -7,7 +7,7 @@
       <p><b>e-mail：zhangx89@ruc.edu.cn</b></p>
     </td>
     <td width="40%">
-      <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" width="30%">      
+      <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/JP-h.jpg" width="30%">      
     </td>
   </tr>
 </table>
