@@ -13,8 +13,9 @@
 </table>
 -->
 
+
 <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 30%; margin-right: 50px;">
+<img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="height: 200px;">
   <div>
     <h1 style="margin: 0;">张骁</h1>
     <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，准聘助理教授</p>
