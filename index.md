@@ -59,7 +59,7 @@ https://doi.org/10.48550/arXiv.2210.06719
 ### 代表英文论文
 Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong and Ji-Rong Wen. Law article-enhanced legal case matching: A causal learning approach. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
 
-Zihua Si, Zhongxiang Sun, **Xiao Zhang**, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen. When search meets recommendation: Learning disentangled search representation for recommendation. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
+Zihua Si, Zhongxiang Sun, **Xiao Zhang***, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen. When search meets recommendation: Learning disentangled search representation for recommendation. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
 
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.
 
