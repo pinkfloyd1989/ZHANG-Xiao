@@ -63,7 +63,7 @@ Haonan Jia, **Xiao Zhang**, Jun Xu, Wei Zeng, Hao Jiang, Xiaohui Yan. Variance r
 
 **Xiao Zhang**, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai, Ji-Rong Wen. Counteracting user attention bias in music streaming recommendation via reward modification. Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), 2504–2514, 2022.  
 
-Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), 224–233, 2022.  (**Spotlight-最佳论文提名奖**)
+Zihua Si, Xueran Han, **Xiao Zhang**, Jun Xu, Yue Yin, Yang Song, Ji-Rong Wen. A model-agnostic causal learning framework for recommendation using search data. Proceedings of the Web Conference 2022 (WWW 2022), 224–233, 2022. 
 
 **Xiao Zhang**, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu, Ji-Rong Wen. Counterfactual reward modification for streaming recommendation with delayed feedback. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021), 41-50, 2021.  
 
