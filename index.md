@@ -51,7 +51,7 @@
 - 海量数据挖掘（研究生课程）
 
 ### 预印本论文
-Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, [https://arxiv.org/pdf/2304.06767.pdf.](https://arxiv.org/pdf/2306.07705.pdf).
+Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, [https://arxiv.org/pdf/2304.06767.pdf](https://arxiv.org/pdf/2306.07705.pdf).
 
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/abs/2210.06719).
