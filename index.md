@@ -34,7 +34,7 @@
 - 机器学习应用：推荐系统、搜索排序等领域的应用.
 
 ### 个人简介
-已在本领域相关的国内外学术期刊和会议上发表论文二十余篇，涵盖 ICML、KDD、SIGIR、AAAI、IJCAI、WWW、WSDM、CIKM 等人工智能重要国际会议，及 TOIS、《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖、WWW 2023 最佳论文提名奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目 5 项，包括国家自然科学基金青年基金项目 1 项、腾讯微信犀牛鸟专项研究计划 1 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
+已在本领域相关的国内外学术期刊和会议上发表论文二十余篇，涵盖 ICML、KDD、SIGIR、AAAI、IJCAI、WWW、WSDM、CIKM 等人工智能重要国际会议，及 TOIS、《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖、WWW 2023 最佳论文提名奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目 7 项，包括国家自然科学基金青年基金项目 1 项、腾讯微信犀牛鸟专项研究计划 1 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
 
 ### 工作经历
 - 2022-至今，中国人民大学，高瓴人工智能学院，准聘助理教授
@@ -51,8 +51,14 @@
 - 海量数据挖掘（研究生课程）
 
 ### 预印本论文
+Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, [https://arxiv.org/pdf/2304.06767.pdf.](https://arxiv.org/pdf/2306.07705.pdf).
+
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
-https://doi.org/10.48550/arXiv.2210.06719
+[https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/abs/2210.06719).
+
+
+Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, **Xiao Zhang**, Jun Xu. Uncovering ChatGPT's capabilities in recommender systems, https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text.
+
 
 
 
