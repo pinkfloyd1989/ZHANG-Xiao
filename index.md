@@ -53,7 +53,7 @@
 ### 预印本论文
 Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, [https://arxiv.org/pdf/2304.06767.pdf](https://arxiv.org/pdf/2306.07705.pdf).
 
-Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, **Xiao Zhang**, Jun Xu. Uncovering ChatGPT's capabilities in recommender systems, https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text.
+Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, **Xiao Zhang**, Jun Xu. Uncovering ChatGPT's capabilities in recommender systems, [https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text]([https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text).
 
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/abs/2210.06719).
@@ -113,7 +113,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092.  
 
 
-### 主持项目
+### 主要主持项目
 
 面向多场景、多任务、转化延迟场景的推荐算法研究, 腾讯微信犀牛鸟专项研究计划, 2020.05-2021.05, **主持** 
 
@@ -123,17 +123,16 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 中国博士后科学基金第 14 批特别资助（站中）, 2021.07-2022.09, **主持** 
 
-基于用户搜索和浏览行为的推荐系统研究, 快手合作项目（第一期）, 2021.05-2022.05, **主持**
+基于用户搜索和浏览行为的推荐系统研究, 快手合作项目, 2021.05-2023.06, **主持**
 
-基于用户搜索和浏览行为的推荐系统研究, 快手合作项目（第二期）, 2022.12-2023.06, **主持**
-
-### 参与项目
+### 主要参与项目
 
 商品搜索中的个性化内容混排模型研究，阿里 Air 合作项目，2021.03–2022.03, 参与
 
 大规模核方法模型选择的随机方法，国家自然科学基金面上项目, 2017.01–2020.01, 参与 
 
 ### 主要获奖
+- 2023.04 WWW 2023 最佳论文提名奖
 - 2018.09  博士研究生国家奖学金
 - 2018.11  ICPR 2018 (第 24 届国际模式识别大会) 最佳论文奖
 - 2017.08  CCFAI 2017 (2017 中国计算机学会人工智能会议) 最佳论文提名奖
