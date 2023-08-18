@@ -58,6 +58,9 @@ Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang 
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/abs/2210.06719).
 
+Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with Hypernewtork for time-varying user preferences in streaming recommendation, 
+[https://arxiv.org/abs/2308.08497](https://arxiv.org/abs/2308.08497).
+
 
 
 
@@ -65,6 +68,7 @@ Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang 
 
 
 ### 代表英文论文
+
 Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, Changshuo Zhang, **Xiao Zhang***, Quan Lin, Cheng Zhu, Jun Xu. Controllable multi-objective re-ranking with policy hypernetworks. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023), accepted.
 
 Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong and Ji-Rong Wen. Law article-enhanced legal case matching: A causal learning approach. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
