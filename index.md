@@ -58,7 +58,7 @@ Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang 
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
 [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/abs/2210.06719).
 
-Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with Hypernewtork for time-varying user preferences in streaming recommendation, 
+Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with hypernewtork for time-varying user preferences in streaming recommendation, 
 [https://arxiv.org/abs/2308.08497](https://arxiv.org/abs/2308.08497).
 
 
