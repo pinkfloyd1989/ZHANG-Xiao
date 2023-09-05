@@ -69,6 +69,8 @@ Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit w
 
 ### 代表英文论文
 
+Chenglei Shen, **Xiao Zhang***, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with hypernewtork for time-varying user preferences in streaming recommendation. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), accepted.   
+
 Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, Changshuo Zhang, **Xiao Zhang***, Quan Lin, Cheng Zhu, Jun Xu. Controllable multi-objective re-ranking with policy hypernetworks. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023), accepted.
 
 Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong and Ji-Rong Wen. Law article-enhanced legal case matching: A causal learning approach. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
