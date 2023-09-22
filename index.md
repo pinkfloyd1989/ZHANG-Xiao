@@ -36,7 +36,7 @@
 **欢迎对我们的研究方向感兴趣、有志于攻读博士或硕士研究生的同学与我联系！**
 
 ### 个人简介
-已在本领域相关的国内外学术期刊和会议上发表论文二十余篇，涵盖 ICML、KDD、SIGIR、AAAI、IJCAI、WWW、WSDM、CIKM 等人工智能重要国际会议，及 TOIS、《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖、WWW 2023 最佳论文提名奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目 7 项，包括国家自然科学基金（面上项目、青年基金项目各 1 项）、腾讯微信犀牛鸟专项研究计划 2 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
+已在本领域相关的国内外学术期刊和会议上发表论文二十余篇，涵盖 ICML、Neurips、KDD、SIGIR、AAAI、IJCAI、WWW、WSDM、CIKM 等人工智能重要国际会议，及 TOIS、《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖、WWW 2023 最佳论文提名奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目 7 项，包括国家自然科学基金（面上项目、青年基金项目各 1 项）、腾讯微信犀牛鸟专项研究计划 2 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
 
 ### 工作经历
 - 2022-至今，中国人民大学，高瓴人工智能学院，准聘助理教授
@@ -70,6 +70,8 @@ Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit w
 
 
 ### 代表英文论文
+
+**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen. Reward imputation with sketching for contextual batched bandits. Advances in Neural Information Processing Systems 35 (NeurIPS 2023), accepted. 
 
 Chenglei Shen, **Xiao Zhang***, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with hypernewtork for time-varying user preferences in streaming recommendation. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), accepted.   
 
