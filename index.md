@@ -36,7 +36,7 @@
 
 
 ### 个人简介
-已在本领域相关的国内外学术期刊和会议上发表论文三十余篇，涵盖 ICML、NeurIPS、KDD、SIGIR、AAAI、IJCAI、WWW、WSDM、CIKM 等人工智能重要国际会议，及 TOIS、《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖、WWW 2023 最佳论文提名奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目 7 项，包括国家自然科学基金（面上项目、青年基金项目各 1 项）、腾讯微信犀牛鸟专项研究计划 2 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
+已在本领域相关的国内外学术期刊和会议上发表论文三十余篇，涵盖 ICML、NeurIPS、KDD、SIGIR、AAAI、IJCAI、WWW、WSDM、CIKM 等人工智能重要国际会议，及 TOIS、《计算机学报》、《中国科学: 信息科学》等计算机学会 A 类期刊，并获得 CCDM 2016、ICPR 2018 优秀论文奖、WWW 2023 最佳论文提名奖、SIGIR-AP 2023 最佳论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目 7 项，包括国家自然科学基金（面上项目、青年基金项目各 1 项）、腾讯微信犀牛鸟专项研究计划 2 项、中国科协高端科技创新智库青年项目 1 项、中国博士后科学基金特别资助 1 项和快手合作项目 1 项。
 
 ### 工作经历
 - 2022-至今，中国人民大学，高瓴人工智能学院，准聘助理教授
@@ -87,13 +87,13 @@ Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang 
 
 Sirui Chen, **Xiao Zhang**, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu. Reinforcement re-ranking with 2D grid-based recommendation panels.  Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023, accepted. 
 
-Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023, accepted. 
+Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023, accepted. (**最佳论文奖**)
 
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.  (**Spotlight-最佳论文提名奖**)
 
 Zihua Si, Zhongxiang Sun, **Xiao Zhang**, Jun Xu, Yang Song, Xiaoxue Zang, Ji-Rong Wen. Enhancing recommendation with search data in a causal learning manner. ACM Transactions on Information Systems (TOIS), 2023, accepted.
 
-Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong, Ji-Rong Wen. Separating examination and trust bias from click predictions for unbiased relevance ranking. Proceedings of the 16th ACM International Conference on Web Search and Data Mining (WSDM 2023), accepted.
+Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong, Ji-Rong Wen. Separating examination and trust bias from click predictions for unbiased relevance ranking. Proceedings of the 16th ACM International Conference on Web Search and Data Mining (WSDM 2023), accepted. 
 
 Haonan Jia, **Xiao Zhang**, Jun Xu, Wei Zeng, Hao Jiang, Xiaohui Yan. Variance reduction for deep Q-Learning using stochastic recursive gradient, Proceedings of the 29th International Conference on Neural Information Processing (ICONIP 2022), accepted.
 
@@ -154,6 +154,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 大规模核方法模型选择的随机方法，国家自然科学基金面上项目, 2017.01–2020.01, 参与 
 
 ### 主要获奖
+- 2023.11 SIGIR-AP 2023 最佳论文奖
 - 2023.04 WWW 2023 最佳论文提名奖
 - 2018.09  博士研究生国家奖学金
 - 2018.11  ICPR 2018 (第 24 届国际模式识别大会) 最佳论文奖
