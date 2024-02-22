@@ -71,7 +71,7 @@ Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit w
 
 ### 代表英文论文
 
-Chen Xu, Jun Xu, Yiming Ding, **Xiao Zhang**, Qi Qi. FairSync: Ensuring amortized group exposure in distributed recommendation retrieval. Proceedings of the 2024 ACM Web Conference (WWWW 2024), accepted. 
+Chen Xu, Jun Xu, Yiming Ding, **Xiao Zhang**, Qi Qi. FairSync: Ensuring amortized group exposure in distributed recommendation retrieval. Proceedings of the 2024 ACM Web Conference (WWW 2024), accepted. 
 
 Jianwen Yang, **Xiao Zhang***, Jun Xu. Smooth start: a unified approach for gradual transition from cold to old in recommender systems. Proceedings of the 49th IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP 2024), accepted. 
 
