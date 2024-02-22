@@ -71,6 +71,8 @@ Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit w
 
 ### 代表英文论文
 
+Jianwen Yang, **Xiao Zhang***, Jun Xu. Smooth start: a unified approach for gradual transition from cold to old in recommender systems. Proceedings of the 49th IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP 2024), accepted. 
+
 Sunhao Dai, Ninglu Shao, Jieming Zhu, **Xiao Zhang**, Zhenhua Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen. Modeling user attention in music recommendation. Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), accepted. 
 
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen. Reward imputation with sketching for contextual batched bandits. Advances in Neural Information Processing Systems 35 (NeurIPS 2023), accepted. 
