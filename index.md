@@ -97,7 +97,7 @@ Sirui Chen, **Xiao Zhang**, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu. R
 
 Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023, accepted. (**最佳论文奖**)
 
-Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, **Xiao Zhang**, Ruihua Song, Xu Chen, huan chen, Yuchong Sun, Yu Chen, Jun Xu. Joint semantic and strategy matching for persuasive dialogue, Findings of EMNLP 2023, accepted.
+
 
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.  (**Spotlight-最佳论文提名奖**)
 
