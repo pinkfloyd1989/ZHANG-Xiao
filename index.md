@@ -77,6 +77,8 @@ Sunhao Dai, Ninglu Shao, Jieming Zhu, **Xiao Zhang**, Zhenhua Dong, Jun Xu, Quan
 
 **Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen. Reward imputation with sketching for contextual batched bandits. Advances in Neural Information Processing Systems 35 (NeurIPS 2023), accepted. 
 
+Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, **Xiao Zhang**, Ruihua Song, Xu Chen, Yuchong Sun, Yu Chen, Jun Xu. Joint semantic and strategy matching for persuasive dialogue. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), accepted. 
+
 Chenglei Shen, **Xiao Zhang***, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with hypernewtork for time-varying user preferences in streaming recommendation. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023), 2239–2248, 2023.   
 
 Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM 2023 Resource Paper), accepted.   
