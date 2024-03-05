@@ -53,6 +53,8 @@
 - 海量数据挖掘（研究生课程）
 
 ### 预印本论文
+Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
+
 Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, [https://arxiv.org/pdf/2304.06767.pdf](https://arxiv.org/pdf/2306.07705.pdf).
 
 Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, **Xiao Zhang**, Jun Xu. Uncovering ChatGPT's capabilities in recommender systems, [https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text]([https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text).
