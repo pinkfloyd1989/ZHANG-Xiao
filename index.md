@@ -51,6 +51,8 @@
 ### 教授课程
 - 高级强化学习（研究生课程）
 - 海量数据挖掘（研究生课程）
+- 人工智能伦理与安全（本科生课程）
+- 人工智能概论（本科生课程）
 
 ### 预印本论文
 Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
@@ -72,6 +74,8 @@ Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit w
 
 
 ### 代表英文论文
+
+Peiyu Liu, Ze-Feng Gao, **Xiao Zhang**, Wayne Xin Zhao, Ji-Rong Wen. Enhancing parameter-efficient fine-tuning with simple calibration based on stable rank. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), accepted. 
 
 Chen Xu, Jun Xu, Yiming Ding, **Xiao Zhang**, Qi Qi. FairSync: Ensuring amortized group exposure in distributed recommendation retrieval. Proceedings of the 2024 ACM Web Conference (WWW 2024), accepted. 
 
