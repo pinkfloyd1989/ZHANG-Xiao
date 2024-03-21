@@ -95,7 +95,7 @@ Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, Changshuo Zhang, **Xiao Zhang***, Q
 
 Zhongxiang Sun, Jun Xu, **Xiao Zhang**, Zhenhua Dong and Ji-Rong Wen. Law article-enhanced legal case matching: A causal learning approach. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
 
-Zihua Si, Zhongxiang Sun, **Xiao Zhang***, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen. When search meets recommendation: Learning disentangled search representation for recommendation. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), accepted.
+Zihua Si, Zhongxiang Sun, **Xiao Zhang***, Jun Xu, Xiaoxue Zang, Yang Song, Kun Gai and Ji-Rong Wen. When search meets recommendation: Learning disentangled search representation for recommendation. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023), 1313-1323, 2023.
 
 Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, **Xiao Zhang** and Jun Xu. Uncovering ChatGPT's capabilities in recommender systems. RecSys 2023 Late Breaking Results (LBR) track, 2023, accepted.
 
