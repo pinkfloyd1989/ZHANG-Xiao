@@ -83,7 +83,7 @@ Jianwen Yang, **Xiao Zhang***, Jun Xu. Smooth start: a unified approach for grad
 
 Sunhao Dai, Ninglu Shao, Jieming Zhu, **Xiao Zhang**, Zhenhua Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen. Modeling user attention in music recommendation. Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE 2024), accepted. 
 
-**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen. Reward imputation with sketching for contextual batched bandits. Advances in Neural Information Processing Systems 35 (NeurIPS 2023), accepted. 
+**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang, Hanjing Su, Ji-Rong Wen. Reward imputation with sketching for contextual batched bandits. Advances in Neural Information Processing Systems 35 (NeurIPS 2023),  64577-64588, 2023. 
 
 Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, **Xiao Zhang**, Ruihua Song, Xu Chen, Yuchong Sun, Yu Chen, Jun Xu. Joint semantic and strategy matching for persuasive dialogue. Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), accepted. 
 
