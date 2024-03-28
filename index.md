@@ -69,6 +69,14 @@ Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Sunhao Dai, Weijie Yu, Jun Xu. UOEP
 
 ### 代表英文论文
 
+Changshuo Zhang, Sirui Chen, **Xiao Zhang***, Sunhao Dai, Weijie Yu and Jun Xu. Reinforcing long-term performance in recommender systems with user-oriented exploration policy. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), accepted. 
+
+Zhongxiang Sun, Zihua Si, **Xiao Zhang**, Xiaoxue Zang, Yang Song, Hongteng Xu and Jun Xu. To search or to recommend: Predicting open-app motivation with neural Hawkes process. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), accepted. 
+
+Teng Shi, Zihua Si, Jun Xu, **Xiao Zhang**, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song. UniSAR: Modeling user transition behaviors between search and recommendation. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), accepted. 
+
+Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024 Short Paper), accepted. 
+
 Peiyu Liu, Ze-Feng Gao, **Xiao Zhang**, Wayne Xin Zhao, Ji-Rong Wen. Enhancing parameter-efficient fine-tuning with simple calibration based on stable rank. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), accepted. 
 
 Chen Xu, Jun Xu, Yiming Ding, **Xiao Zhang**, Qi Qi. FairSync: Ensuring amortized group exposure in distributed recommendation retrieval. Proceedings of the 2024 ACM Web Conference (WWW 2024), accepted. 
@@ -96,8 +104,6 @@ Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang 
 Sirui Chen, **Xiao Zhang**, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu. Reinforcement re-ranking with 2D grid-based recommendation panels.  Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023, accepted. 
 
 Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023, accepted. (**最佳论文奖**)
-
-
 
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023, accepted.  (**Spotlight-最佳论文提名奖**)
 
