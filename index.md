@@ -62,6 +62,8 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhan
 
 Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
 
+Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Sunhao Dai, Weijie Yu, Jun Xu. UOEP: User-oriented exploration policy for enhancing long-term user experiences in recommender systems, [https://arxiv.org/abs/2401.09034] (https://arxiv.org/abs/2401.09034).
+
 
 
 
