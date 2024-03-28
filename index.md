@@ -55,20 +55,12 @@
 - 人工智能概论（本科生课程）
 
 ### 预印本论文
+
+Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075] (https://arxiv.org/abs/2403.16075).
+
+Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Jun Xu. LLMs may dominate information access: Neural retrievers are biased towards llm-generated texts, [https://arxiv.org/abs/2310.20501] (https://arxiv.org/abs/2310.20501).
+
 Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
-
-Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang Song, **Xiao Zhang**, Jun Xu. KuaiSAR: A unified search and recommendation dataset, [https://arxiv.org/pdf/2304.06767.pdf](https://arxiv.org/pdf/2306.07705.pdf).
-
-Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang Sun, **Xiao Zhang**, Jun Xu. Uncovering ChatGPT's capabilities in recommender systems, [https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text]([https://arxiv.org/pdf/2305.02182.pdf?trk=public_post_comment-text).
-
-**Xiao Zhang**, Ninglu Shao, Zihua Si, Jun Xu, Wenha Wang, Hanjing Su, Ji-Rong Wen. Partial information as full: Reward imputation with sketching in bandits, 
-[https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/abs/2210.06719).
-
-Chenglei Shen, **Xiao Zhang**, Wei Wei, Jun Xu. HyperBandit: Contextual bandit with hypernewtork for time-varying user preferences in streaming recommendation, 
-[https://arxiv.org/abs/2308.08497](https://arxiv.org/abs/2308.08497).
-
-
-
 
 
 
