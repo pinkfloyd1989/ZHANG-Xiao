@@ -56,7 +56,7 @@
 
 ### 预印本论文
 
-Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075] (https://arxiv.org/abs/2403.16075.pdf).
+Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075.pdf](https://arxiv.org/pdf/2403.16075.pdf).
 
 Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Jun Xu. LLMs may dominate information access: Neural retrievers are biased towards llm-generated texts, [https://arxiv.org/abs/2310.20501] (https://arxiv.org/abs/2310.20501).
 
