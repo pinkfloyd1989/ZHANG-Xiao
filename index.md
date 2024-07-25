@@ -77,7 +77,7 @@ Kepu Zhang, Teng Shi, Sunhao Dai, **Xiao Zhang***, Yinfeng Li, Jing Lu, Xiaoxue 
 
 Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu. Large language models enhanced collaborative filtering. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024), accepted. 
 
-**Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), accepted. 
+**Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
 
 Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Gang Wang, Jun Xu. Neural retrievers are biased towards LLM-generated content.  Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), accepted. 
 
