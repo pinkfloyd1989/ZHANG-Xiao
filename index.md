@@ -186,6 +186,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 大规模核方法模型选择的随机方法，国家自然科学基金面上项目, 2017.01–2020.01, 参与 
 
 ### 主要获奖
+- 2024.07 SIGIR 2024 最佳短文提名奖
 - 2023.11 SIGIR-AP 2023 最佳论文奖
 - 2023.04 WWW 2023 最佳论文提名奖
 - 2018.11  ICPR 2018 (第 24 届国际模式识别大会) 最佳论文奖
