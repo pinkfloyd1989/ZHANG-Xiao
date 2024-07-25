@@ -91,7 +91,7 @@ Zhongxiang Sun, Zihua Si, **Xiao Zhang**, Xiaoxue Zang, Yang Song, Hongteng Xu a
 
 Teng Shi, Zihua Si, Jun Xu, **Xiao Zhang**, Xiaoxue Zang, Kai Zheng, Dewei Leng, Yanan Niu and Yang Song. UniSAR: Modeling user transition behaviors between search and recommendation. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), accepted. 
 
-Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024 Short Paper), accepted. 
+Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024 Short Paper), accepted. (**最佳短文提名**)
 
 Peiyu Liu, Ze-Feng Gao, **Xiao Zhang**, Wayne Xin Zhao, Ji-Rong Wen. Enhancing parameter-efficient fine-tuning with simple calibration based on stable rank. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), accepted. 
 
