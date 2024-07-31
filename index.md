@@ -75,11 +75,13 @@ Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Sunhao Dai, Weijie Yu, Jun Xu. UOEP
 
 ### 代表英文论文
 
+**Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
+
+Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, **Xiao Zhang***, Jun Xu, Quan Lin. Do not wait: Learning re-ranking model without user feedback at serving time in e-commerce. Proceedings of the 18th ACM Conference on Recommender Systems (RecSys 2024), accepted. 
+
 Kepu Zhang, Teng Shi, Sunhao Dai, **Xiao Zhang***, Yinfeng Li, Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu. SAQRec: Aligning recommender systems to user satisfaction via questionnaire feedback. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024), accepted. 
 
 Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu. Large language models enhanced collaborative filtering. Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM 2024), accepted. 
-
-**Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
 
 Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Gang Wang, Jun Xu. Neural retrievers are biased towards LLM-generated content.  Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), accepted. 
 
