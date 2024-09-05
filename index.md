@@ -36,7 +36,7 @@
 
 
 ### 个人简介
-张骁，中国人民大学高瓴人工智能学院准聘副教授，博导，中国人民大学杰出学者青年学者。已在本领域相关的国内外学术期刊和会议上发表论文四十余篇，涵盖 ICML、NeurIPS、KDD、SIGIR、AAAI、IJCAI、WWW、ICDE、VLDB 等 CCF A 类会议，及 IEEE TKDE、ACM TOIS、《计算机学报》、《中国科学: 信息科学》等 CCF A 类期刊，并获得 SIGIR 2024 最佳短文提名奖、WWW 2023 最佳论文提名奖、SIGIR-AP 2023 最佳论文奖、ICPR 2018 最佳论文奖、CCDM 2016 最佳论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目十余项，包括：国家自然科学基金（面上项目、青年基金项目）、科技部人工智能重大专项子课题、中国科协高端科技创新智库青年项目、中国博士后科学基金特别资助、以及腾讯微信犀牛鸟专项研究计划和快手合作项目等横向项目等。
+张骁，中国人民大学高瓴人工智能学院准聘副教授，博导，中国人民大学杰出学者青年学者。已在本领域相关的国内外学术期刊和会议上发表论文四十余篇，涵盖 ICML、NeurIPS、KDD、SIGIR、AAAI、IJCAI、WWW、ICDE、VLDB 等 CCF A 类会议，及 IEEE TKDE、ACM TOIS、《计算机学报》、《中国科学: 信息科学》等 CCF A 类期刊，并获得 SIGIR 2024 最佳短文提名奖、VLDB 2024 最佳论文提名奖、WWW 2023 最佳论文提名奖、SIGIR-AP 2023 最佳论文奖、ICPR 2018 最佳论文奖、CCDM 2016 最佳论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目十余项，包括：国家自然科学基金（面上项目、青年基金项目）、科技部人工智能重大专项子课题、中国科协高端科技创新智库青年项目、中国博士后科学基金特别资助、以及腾讯微信犀牛鸟专项研究计划和快手合作项目等横向项目等。
 
 ### 工作经历
 - 2024-至今，中国人民大学，高瓴人工智能学院，准聘副教授
@@ -85,7 +85,7 @@ Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Ju
 
 Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Gang Wang, Jun Xu. Neural retrievers are biased towards LLM-generated content.  Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024). 
 
-Hanyan Yin, Dongxie Wen, Jiajun Li, Zhewei Wei, **Xiao Zhang**, Zengfeng Huang, Feifei Li. Optimal matrix sketching over sliding windows.  Proceedings of the 50th International Conference on Very Large Databases (VLDB 2024). 
+Hanyan Yin, Dongxie Wen, Jiajun Li, Zhewei Wei, **Xiao Zhang**, Zengfeng Huang, Feifei Li. Optimal matrix sketching over sliding windows.  Proceedings of the 50th International Conference on Very Large Databases (VLDB 2024). (**最佳论文提名, Best Research Paper Nominations**) 
 
 ZhongXiang Sun, Kepu Zhang, Haoyu Wang, **Xiao Zhang**, Jun Xu. Effective in-context example selection through data compression.  ACL Findings (2024). 
 
