@@ -100,6 +100,8 @@ Teng Shi, Zihua Si, Jun Xu, **Xiao Zhang**, Xiaoxue Zang, Kai Zheng, Dewei Leng,
 
 Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), short paper. (**最佳短文提名, Best Short Paper Nominee**)
 
+Zihua Si, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu and Kun Gai. Generative retrieval with semantic tree-structured identifiers and contrastive learning. Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2024).
+
 Peiyu Liu, Ze-Feng Gao, **Xiao Zhang**, Wayne Xin Zhao, Ji-Rong Wen. Enhancing parameter-efficient fine-tuning with simple calibration based on stable rank. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 
 
 Chen Xu, Jun Xu, Yiming Ding, **Xiao Zhang**, Qi Qi. FairSync: Ensuring amortized group exposure in distributed recommendation retrieval. Proceedings of the 2024 ACM Web Conference (WWW 2024). 
