@@ -24,7 +24,7 @@
 </div>
 
 
-[English Homepage](https://pinkfloyd1989.github.io/ZHANG-Xiao/index_eng.html){: .btn .btn-outline }
+[English Homepage](https://pinkfloyd1989.github.io/xzhang/){: .btn .btn-outline }
 
 
 
