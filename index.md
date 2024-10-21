@@ -62,19 +62,17 @@
 
 ### 预印本论文
 
+Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
+
 Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **最新发布的可控学习（Controllable Learning）综述，欢迎大家关注！**]
+
+Dongxie Wen, Hanyan Yin, **Xiao Zhang**, Zhewei Wei. Matrix sketching in bandits: Current pitfalls and new framework
+
+Dongxie Wen, **Xiao Zhang**, Zhewei Wei. Fast second-order online kernel learning through incremental matrix sketching and decomposition, [https://arxiv.org/abs/2410.10258.pdf](https://arxiv.org/abs/2410.10258.pdf). 
 
 Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075.pdf](https://arxiv.org/pdf/2403.16075.pdf).
 
-Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Jun Xu, Quan Lin. Do not wait: Learning re-ranking model without user feedback at serving time in e-commerce, [https://arxiv.org/abs/2406.14004.pdf](https://arxiv.org/abs/2406.14004.pdf).
-
-Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhang**, Jun Xu. LLMs may dominate information access: Neural retrievers are biased towards LLM-generated texts, [https://arxiv.org/abs/2310.20501](https://arxiv.org/pdf/2310.20501.pdf).
-
 Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
-
-Changshuo Zhang, Sirui Chen, **Xiao Zhang**, Sunhao Dai, Weijie Yu, Jun Xu. UOEP: User-oriented exploration policy for enhancing long-term user experiences in recommender systems, [https://arxiv.org/abs/2401.09034.pdf](https://arxiv.org/pdf/2401.09034.pdf).
-
-
 
 
 ### 代表英文论文
