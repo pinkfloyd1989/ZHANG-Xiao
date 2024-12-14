@@ -78,6 +78,11 @@ Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abiliti
 
 ### 代表英文论文
 
+**Xiao Zhang**, Sunhao Dai, Jun Xu, Yong Liu, Zhenhua Dong. AdaO2B: Adaptive online to batch conversion for
+out-of-distribution generalization. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
+
+Kepu Zhang, Zhongxiang Sun, **Xiao Zhang***, Xiaoxue Zang, Kai Zheng, Yang Song, Jun Xu. Trigger^3: Refining query correction via adaptive model selector. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). 
+
 **Xiao Zhang**, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen. Model-agnostic causal embedding learning for counterfactually group-fair recommendation.  IEEE Transactions on Knowledge and Data Engineering (TKDE), doi: 10.1109/TKDE.2024.3424906. 
 
 Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, **Xiao Zhang***, Jun Xu, Quan Lin. Do not wait: Learning re-ranking model without user feedback at serving time in e-commerce. Proceedings of the 18th ACM Conference on Recommender Systems (RecSys 2024), short paper. 
