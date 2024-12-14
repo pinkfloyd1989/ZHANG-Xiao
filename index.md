@@ -37,7 +37,7 @@
 
 
 ### 个人简介
-张骁，中国人民大学高瓴人工智能学院准聘副教授，博导，中国人民大学杰出学者青年学者。已在本领域相关的国内外学术期刊和会议上发表论文四十余篇，涵盖 ICML、NeurIPS、KDD、SIGIR、AAAI、IJCAI、WWW、ICDE、VLDB 等 CCF A 类会议，及 IEEE TKDE、ACM TOIS、《计算机学报》、《中国科学: 信息科学》等 CCF A 类期刊，并获得 SIGIR 2024 最佳短文提名奖、VLDB 2024 最佳论文提名奖、WWW 2023 最佳论文提名奖、SIGIR-AP 2023 最佳论文奖、ICPR 2018 最佳论文奖、CCFAI 2017 最佳论文提名奖、CCDM 2016 最佳论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目十余项，包括：国家自然科学基金（面上项目、青年基金项目）、科技部人工智能重大专项子课题、中国科协高端科技创新智库青年项目、中国博士后科学基金特别资助、以及腾讯微信犀牛鸟专项研究计划和快手合作项目等横向项目等。
+张骁，中国人民大学高瓴人工智能学院准聘副教授，博导，中国人民大学杰出学者青年学者。已在本领域相关的国内外学术期刊和会议上发表论文四十余篇，涵盖 ICML、NeurIPS、KDD、SIGIR、AAAI、IJCAI、WWW、ICDE、VLDB 等 CCF A 类会议，及 IEEE TKDE、ACM TOIS、《计算机学报》、《中国科学: 信息科学》等 CCF A 类期刊，并获得 SIGIR 2024 最佳短文提名奖、VLDB 2024 最佳论文提名奖、SIGIR-AP 2024 最佳论文奖, WWW 2023 最佳论文提名奖、SIGIR-AP 2023 最佳论文奖、ICPR 2018 最佳论文奖、CCFAI 2017 最佳论文提名奖、CCDM 2016 最佳论文奖。研究成果被来自斯坦福大学、法国国家信息与自动化研究所等科研机构的领域专家（A. Rudi、Lei Xing等）引用，所提出的在线核学习算法被国际模式识别学会《IAPR Newsletter》评价为 “promising for large-scale matrix computation and online learning”（参考译文：大规模矩阵计算及在线学习领域的一种有前景的方法）。受邀担任 ICML、KDD、SIGIR、NeurIPS、AAAI、IJCAI、WWW 等多个国际会议的程序委员会委员及资深程序委员会委员。主持科研基金项目十余项，包括：国家自然科学基金（面上项目、青年基金项目）、科技部人工智能重大专项子课题、中国科协高端科技创新智库青年项目、中国博士后科学基金特别资助、以及腾讯微信犀牛鸟专项研究计划和快手合作项目等横向项目等。
 
 ### 工作经历
 - 2024-至今，中国人民大学，高瓴人工智能学院，准聘副教授
@@ -100,7 +100,7 @@ Teng Shi, Zihua Si, Jun Xu, **Xiao Zhang**, Xiaoxue Zang, Kai Zheng, Dewei Leng,
 
 Sunhao Dai, Changle Qu, Sirui Chen, **Xiao Zhang** and Jun Xu. ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024), short paper. (**最佳短文提名, Best Short Paper Nominee**)
 
-Zihua Si, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu and Kun Gai. Generative retrieval with semantic tree-structured identifiers and contrastive learning. Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2024).
+Zihua Si, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu and Kun Gai. Generative retrieval with semantic tree-structured identifiers and contrastive learning. Proceedings of the 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP 2024). (**最佳论文奖, Best Paper Reward**)
 
 Peiyu Liu, Ze-Feng Gao, **Xiao Zhang**, Wayne Xin Zhao, Ji-Rong Wen. Enhancing parameter-efficient fine-tuning with simple calibration based on stable rank. Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024). 
 
@@ -128,7 +128,7 @@ Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu, Zhongxiang 
 
 Sirui Chen, **Xiao Zhang**, Xu Chen, Zhiyu Li, Yuan Wang, Quan Lin and Jun Xu. Reinforcement re-ranking with 2D grid-based recommendation panels.  Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023. 
 
-Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023. (**最佳论文奖**)
+Haiyuan Zhao, Jun Xu, **Xiao Zhang**, Guohao Cai, Zhenhua Dong and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal likelihood decomposition. Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific, 2023. (**最佳论文奖, Best Paper Reward**)
 
 Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, **Xiao Zhang**, Gang Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in recommender system. Proceedings of the Web Conference 2023 (WWW 2023), 2023.  (**Spotlight-最佳论文提名奖**)
 
@@ -197,6 +197,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 
 ### 主要获奖
+- 2024.12 SIGIR-AP 2024 最佳论文奖
 - 2024.08 VLDB 最佳论文提名奖
 - 2024.07 SIGIR 2024 最佳短文提名奖
 - 2023.11 SIGIR-AP 2023 最佳论文奖
