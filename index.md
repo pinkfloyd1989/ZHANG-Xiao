@@ -82,6 +82,8 @@ Haoyu Wang, Sunhao Dai, Haiyuan Zhao, Liang Pang, **Xiao Zhang**, Gang Wang, Zhe
 
 ZhongXiang Sun, Xiaoxue Zang, Kai Zheng, Jun Xu, **Xiao Zhang**, Weijie Yu, Yang Song, Han Li. ReDeEP: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability. Proceedings of the 13th International Conference on Learning Representations (ICLR 2025).
 
+ZhongXiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, **Xiao Zhang**, Jun Xu. LargePiG for Hallucination-free query generation: Your large language model is secretly a pointer generator.  Proceedings of the Web Conference 2025 (WWW 2025). 
+
 **Xiao Zhang**, Sunhao Dai, Jun Xu, Yong Liu, Zhenhua Dong. AdaO2B: Adaptive online to batch conversion for
 out-of-distribution generalization. Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025).
 
