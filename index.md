@@ -66,7 +66,7 @@
 
 Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
 
-Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **最新发布的可控学习（Controllable Learning）综述，欢迎大家关注！**]
+Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **可控学习（Controllable Learning）综述，欢迎大家关注！**]
 
 Dongxie Wen, Hanyan Yin, **Xiao Zhang**, Zhewei Wei. Matrix sketching in bandits: Current pitfalls and new framework, [https://arxiv.org/abs/2410.10258.pdf](https://arxiv.org/abs/2410.10258.pdf).
 
@@ -74,11 +74,17 @@ Dongxie Wen, **Xiao Zhang**, Zhewei Wei. Fast second-order online kernel learnin
 
 Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history, [https://arxiv.org/abs/2403.16075.pdf](https://arxiv.org/pdf/2403.16075.pdf).
 
-Chenglei Shen, Guofu Xie, **Xiao Zhang**, Jun Xu. On the decision-making abilities in role-playing using large language models, [https://doi.org/10.48550/arXiv.2210.06719](https://arxiv.org/pdf/2402.18807.pdf).
+
 
 
 
 ### 代表英文论文
+
+Changle Qu, Liqin Zhao, Yanan Niu, **Xiao Zhang***, and Jun Xu. Bridging short videos and streamers with multi-graph contrastive learning for live streaming recommendation. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025). 
+
+Zhongxiang Sun, Qipeng Wang, Weijie Yu, Xiaoxue Zang, Kai Zheng, Jun Xu, **Xiao Zhang**, Yang Song and Han Li. Trustworthy process rewarding for retrieval-augmented reasoning. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025). 
+
+Teng Shi, Jun Xu, **Xiao Zhang**, Xiaoxue Zang, Kai Zheng, Yang Song and Han Li. Retrieval augmented generation with collaborative filtering for personalized text generation. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025). 
 
 Haoyu Wang, Sunhao Dai, Haiyuan Zhao, Liang Pang, **Xiao Zhang**, Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen. Perplexity trap: PLM-Based retrievers overrate low perplexity documents. Proceedings of the 13th International Conference on Learning Representations (ICLR 2025).
 
