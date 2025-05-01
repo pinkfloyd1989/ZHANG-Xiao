@@ -192,7 +192,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 *: Corresponding author.
 
-<span style="font-size: 0.8em;">†</span>: Equal contribution.
+<sup>†</sup>: Equal contribution.
 
 
 ### 代表中文论文
