@@ -116,6 +116,8 @@ Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu, **Xiao Zhan
 
 Hanyan Yin, Dongxie Wen, Jiajun Li, Zhewei Wei, **Xiao Zhang**, Zengfeng Huang, Feifei Li. Optimal matrix sketching over sliding windows.  Proceedings of the 50th International Conference on Very Large Databases (VLDB 2024). (**最佳论文提名, Best Research Paper Nominations**) 
 
+Chen Xu, Xiaopeng Ye, Jun Xu, **Xiao Zhang**, Weiran Shen, Ji-Rong Wen. LTP-MMF: Toward long-term provider max-min fairness under recommendation feedback loops. ACM Transactions on Information Systems (TOIS), 43(1): 1-29.
+
 ZhongXiang Sun, Kepu Zhang, Haoyu Wang, **Xiao Zhang**, Jun Xu. Effective in-context example selection through data compression.  ACL Findings (2024). 
 
 Changshuo Zhang, Sirui Chen, **Xiao Zhang**†, Sunhao Dai, Weijie Yu and Jun Xu. Reinforcing long-term performance in recommender systems with user-oriented exploration policy. Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024). 
