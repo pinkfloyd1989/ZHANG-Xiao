@@ -64,6 +64,7 @@
 
 ### 预印本论文
 
+
 Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
 
 Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **可控学习（Controllable Learning）综述，欢迎大家关注！**]
@@ -79,6 +80,10 @@ Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched cont
 
 
 ### 代表英文论文
+
+Yi-Fan Zhang, Xiao Zhang, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
+
+Dongxie Wen, **Xiao Zhang***, Zhewei Wei, Chenping Hou, Shuai Li, Weinan Zhang. Fast second-order online kernel learning through incremental matrix sketching and decomposition.  Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).
 
 Changle Qu, Liqin Zhao, Yanan Niu, **Xiao Zhang***, and Jun Xu. Bridging short videos and streamers with multi-graph contrastive learning for live streaming recommendation. Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025). 
 
