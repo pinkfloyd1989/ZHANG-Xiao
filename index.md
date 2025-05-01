@@ -81,7 +81,7 @@ Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched cont
 
 ### 代表英文论文
 
-Yi-Fan Zhang, Xiao Zhang, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
+Yi-Fan Zhang, **Xiao Zhang**, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
 
 Dongxie Wen, **Xiao Zhang***, Zhewei Wei, Chenping Hou, Shuai Li, Weinan Zhang. Fast second-order online kernel learning through incremental matrix sketching and decomposition.  Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).
 
@@ -190,7 +190,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 *: Corresponding author.
 
-\dagger: Equal contribution.
+&dagger: Equal contribution.
 
 ### 代表中文论文
 **张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019.  
