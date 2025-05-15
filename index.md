@@ -81,6 +81,8 @@ Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched cont
 
 ### 代表英文论文
 
+Zhiyuan Su, Sunhao Dai, **Xiao Zhang***. Revisiting clustering of neural bandits: Selective reinitialization for mitigating loss of plasticity. Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
+
 Yi-Fan Zhang<sup>†</sup>, **Xiao Zhang**<sup>†</sup>, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
 
 Dongxie Wen, **Xiao Zhang***, Zhewei Wei, Chenping Hou, Shuai Li, Weinan Zhang. Fast second-order online kernel learning through incremental matrix sketching and decomposition.  Proceedings of the 34th International Joint Conference on Artificial Intelligence (IJCAI 2025).
