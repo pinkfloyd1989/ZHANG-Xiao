@@ -1,4 +1,4 @@
-<!--
+<img width="546" height="56" alt="image" src="https://github.com/user-attachments/assets/0ed04076-42c1-4282-9218-c3f7fd863826" /><!--
 <table border="0">
   <tr>
     <td width="60%">
@@ -67,8 +67,6 @@
 
 Chenglei Shen, Jiahao Zhao, **Xiao Zhang**, Weijie Yu, Ming He, Jianping Fan. Generating model parameters for controlling: Parameter diffusion for controllable multi-task recommendation, [https://arxiv.org/abs/2410.10639.pdf](https://arxiv.org/abs/2410.10639.pdf).  
 
-Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval, [https://arxiv.org/abs/2407.06083.pdf](https://arxiv.org/abs/2407.06083.pdf). [ **可控学习（Controllable Learning）综述，欢迎大家关注！**]
-
 Dongxie Wen, Hanyan Yin, **Xiao Zhang**, Zhewei Wei. Matrix sketching in bandits: Current pitfalls and new framework, [https://arxiv.org/abs/2410.10258.pdf](https://arxiv.org/abs/2410.10258.pdf).
 
 Dongxie Wen, **Xiao Zhang**, Zhewei Wei. Fast second-order online kernel learning through incremental matrix sketching and decomposition, [https://arxiv.org/abs/2410.11188.pdf](https://arxiv.org/abs/2410.11188.pdf). 
@@ -80,6 +78,8 @@ Yi Xu, Weiran Shen, **Xiao Zhang**, Jun Xu. IBCB: Efficient inverse batched cont
 
 
 ### 代表英文论文
+
+Chenglei Shen, **Xiao Zhang**, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml](https://journal.hep.com.cn/fcs/EN/abstract/abstract98387.shtml). [ **可控学习（Controllable Learning）综述 Just Accepted，入选 FCS Excellent Young Computer Scientists Forum，欢迎大家关注！**]
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
