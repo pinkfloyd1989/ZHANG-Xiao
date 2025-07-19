@@ -238,6 +238,7 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 
 ### 主要获奖
+- 2025.07 可控学习综述论文入选期刊 Frontiers of Computer Science 优秀青年科学家论坛
 - 2024.12 SIGIR-AP 2024 最佳论文奖
 - 2024.08 VLDB 最佳论文提名奖
 - 2024.07 SIGIR 2024 最佳短文提名奖
