@@ -89,6 +89,12 @@ Guofu Xie, **Xiao Zhang***, Ting Yao, Yunsheng Shi. Bone Soups: A seek-and-soup 
 
 Weicong Qin, Yi Xu, Weijie Yu, Chenglei Shen, Ming He, Jianping Fan, **Xiao Zhang**, Jun Xu. MAPS: Motivation-aware personalized search via LLM-driven consultation alignment. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 main conference).
 
+Changshuo Zhang, Ang Gao, **Xiao Zhang***, Yong Liu, Deyang Li, Fangchao Liu, Xinyu Zhang. Reward Mixology: Crafting Hybrid Signals for Reinforcement Learning Driven In-Context Learning. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 findings). 
+
+Xiang Cheng, Chengyan Pan, Minjun Zhao, Deyang Li, Fangchao Liu, Xinyu Zhang, **Xiao Zhang**, Yong Liu. Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 findings). 
+
+Weicong Qin, Yi Xu, Weijie Yu, Teng Shi, Chenglei Shen, Ming He, Jianping Fan, **Xiao Zhang**, Jun Xu. Similarity = Value? Consultation Value-Assessment and Alignment for Personalized Search. Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 main conference). 
+
 Zhiyuan Su, Sunhao Dai, **Xiao Zhang***. Revisiting clustering of neural bandits: Selective reinitialization for mitigating loss of plasticity. Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
 
 Yi-Fan Zhang<sup>†</sup>, **Xiao Zhang**<sup>†</sup>, Min-Ling Zhang. Generalization analysis for controllable learning. Proceedings of the 42nd International Conference on Machine Learning (ICML 2025).
