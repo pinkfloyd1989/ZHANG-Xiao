@@ -75,7 +75,7 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
-Chenglei Shen, Jiahao Zhao, **Xiao Zhang***, Weijie Yu, Ming He and Jianping Fan. Paragon: Parameter Generation for Controllable Multi-Task Recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
+Chenglei Shen, Jiahao Zhao, **Xiao Zhang***, Weijie Yu, Ming He and Jianping Fan. Paragon: Parameter generation for controllable multi-task recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
 Guofu Xie, **Xiao Zhang***, Ting Yao, Yunsheng Shi. Bone Soups: A seek-and-soup model merging approach for controllable multi-objective generation. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025 main conference).
 
