@@ -68,6 +68,8 @@
 
 ### 代表英文论文
 
+Ke Guo, Changle Qu, **Xiao Zhang***, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu. Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation.  Proceedings of the Web Conference 2026 (WWW 2026).
+
 Chenglei Shen, Yi Zhan, Weijie Yu, **Xiao Zhang***, Jun Xu. Enhancing bandit algorithms with LLMs for time-varying user preferences in streaming recommendations. ACM Transactions on Information Systems (TOIS), 2026.
 
 Yi Xu, Weiran Shen, Jun Xu, **Xiao Zhang***, Ji-Rong Wen. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
