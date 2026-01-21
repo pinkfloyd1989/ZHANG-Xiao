@@ -74,7 +74,7 @@ Chenglei Shen, Yi Zhan, Weijie Yu, **Xiao Zhang***, Jun Xu. Enhancing bandit alg
 
 Yi Xu, Weiran Shen, Jun Xu, **Xiao Zhang***, Ji-Rong Wen. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
 
-Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2025. [https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5).  [ **可控学习（Controllable Learning）综述 Just Accepted, 入选 FCS Excellent Young Computer Scientists Forum, 欢迎大家关注！**]
+Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2026, 20(10): 2010619. [https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5).  [ **可控学习（Controllable Learning）综述 Just Accepted, 入选 FCS Excellent Young Computer Scientists Forum, 欢迎大家关注！**]
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
