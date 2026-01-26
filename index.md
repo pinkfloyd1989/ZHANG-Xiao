@@ -68,6 +68,8 @@
 
 ### 代表英文论文
 
+Chenglei Shen, Zhongxiang Sun, Teng Shi, **Xiao Zhang***, Jun Xu. StyliTruth : Unlocking stylized yet truthful LLM generation via disentangled steering. Proceedings of the 14th International Conference on Learning Representations (ICLR 2026).
+
 Ke Guo, Changle Qu, **Xiao Zhang***, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu. Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation.  Proceedings of the Web Conference 2026 (WWW 2026).
 
 Chenglei Shen, Yi Zhan, Weijie Yu, **Xiao Zhang***, Jun Xu. Enhancing bandit algorithms with LLMs for time-varying user preferences in streaming recommendations. ACM Transactions on Information Systems (TOIS), 2026.
