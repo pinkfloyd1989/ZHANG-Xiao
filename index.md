@@ -3,7 +3,7 @@
   <tr>
     <td width="60%">
       <h1>张 骁</h1>
-      <p><b>中国人民大学，高瓴人工智能学院，准聘副教授，博导</b></p>
+      <p><b>中国人民大学，高瓴人工智能学院，预聘副教授，博导</b></p>
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
     <td width="40%">
@@ -18,7 +18,7 @@
  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
   <div>
     <h1 style="margin: 0;">张骁</h1>
-    <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，准聘副教授, 博导</p>
+    <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，预聘副教授, 博导</p>
     <p style="margin: 0; font-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
   </div>
 </div>
@@ -29,8 +29,8 @@
 
 
 ### 研究兴趣
-- 在线学习&强化学习：在线学习&强化学习的理论分析与算法设计、低资源消耗的流数据学习算法.
-- 可信学习：因果纠偏与反事实学习算法、可控机器学习及公平机器学习研究. 
+- 流式机器学习：在线学习&强化学习的理论分析与算法设计、低资源消耗的流数据学习算法.
+- 可信可控学习：因果纠偏与反事实学习算法、可控机器学习及公平机器学习研究. 
 - 大模型&信息检索应用：推荐系统、搜索排序等领域的应用，特别是大模型赋能的信息检索.
 
 
