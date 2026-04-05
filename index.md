@@ -258,4 +258,4 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 - 2011.11  全国大学生数学建模竞赛国家一等奖
 - 2010.11  全国大学生数学建模竞赛国家一等奖
 
-更多相关信息可参见实验室主页：<a href="https://ruc-iir-lab.github.io/team/" target="_blank">https://ruc-iir-lab.github.io/team/</a>。
+更多相关信息可参见实验室主页：<a href="https://ruc-iir-lab.github.io/team/" target="_blank">https://ruc-iir-lab.github.io/team/</a>
