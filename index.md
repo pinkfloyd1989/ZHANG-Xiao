@@ -13,17 +13,15 @@
 </table>
 -->
 
-
 <div style="display: flex; align-items: center;">
  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
   <div>
     <h1 style="margin: 0;">张骁</h1>
     <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，预聘副教授, 博导</p>
-    <p style="margin: 0; font-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
+    <p style="margin: 0; font.-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
+    <p style="margin:2px 0 0; font-size:1em; color:#666;">课题组：<a href="https://ruc-iir-lab.github.io/team/" style color:#666; text-decoration:none;">ruc-iir-lab.github.io/team/</a></p>
   </div>
 </div>
-
-
 
 
 
