@@ -72,6 +72,14 @@
 
 ### 代表英文论文
 
+Yuan Wang, Zhiyu Li, Ang Gao, Changshuo Zhang, **Xiao Zhang***, Jun Xu, Quan Lin. Large-scale online learning for generative list recommendation in E-commerce: An environment policy optimization approach. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+
+Chenglei Shen, Teng Shi, Weijie Yu, **Xiao Zhang***, Jun Xu. GenRecEdit: Adapting model editing for generative recommendation with cold-start items. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+
+Changshuo Zhang, Teng Shi, **Xiao Zhang***, Yanping Zheng, Ruobing Xie, Qi Liu, Jun Xu. Disentangling from collaborative and semantic biews: Graph collaborative filtering for Q&A recommendation. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
+
+Changle Qu, Sunhao Dai, Ke Guo, **Xiao Zhang***, Liqin Zhao, Shijun Wang, Yannan Niu, Lantao Hu, Han Li, Jun Xu. KuaiLive: A real-time interactive dataset for live streaming recommendation. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026 Resource Paper).
+
 Chenglei Shen, Zhongxiang Sun, Teng Shi, **Xiao Zhang***, Jun Xu. StyliTruth: Unlocking stylized yet truthful LLM generation via disentangled steering. Proceedings of the 14th International Conference on Learning Representations (ICLR 2026).
 
 Ke Guo, Changle Qu, **Xiao Zhang***, Liqin Zhao, Shijun Wang, Yanan Niu and Jun Xu. Room matters: Dynamic room-level collaboration information modeling for live streaming recommendation.  Proceedings of the Web Conference 2026 (WWW 2026).
