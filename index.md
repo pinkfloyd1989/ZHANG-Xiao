@@ -18,8 +18,7 @@
   <div>
     <h1 style="margin: 0;">张骁</h1>
     <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，预聘副教授, 博导</p>
-    <p style="margin: 0; font.-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
-    <p style="margin:2px 0 0; font-size:1em; color:#666;">课题组：<a href="https://ruc-iir-lab.github.io/team/" style color:#666; text-decoration:none;">ruc-iir-lab.github.io/team/</a></p>
+    <p style="margin: 0; font-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
   </div>
 </div>
 
@@ -258,3 +257,5 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 - 2016.05  CCDM 2016 (2016 中国数据挖掘会议) 最佳论文奖
 - 2011.11  全国大学生数学建模竞赛国家一等奖
 - 2010.11  全国大学生数学建模竞赛国家一等奖
+
+更多相关信息可参见实验室主页：<a href="https://ruc-iir-lab.github.io/team/" target="_blank">https://ruc-iir-lab.github.io/team/</a>。
