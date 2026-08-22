@@ -59,6 +59,7 @@
 <summary style="list-style: none; display: inline-block; padding: 12px 30px; background: linear-gradient(135deg, #1677ff 0%, #0047ab 100%); color: #ffffff; border-radius: 10px; cursor: pointer; font-weight: 900; font-size: 18px; box-shadow: 0 4px 15px rgba(0, 71, 171, 0.4), inset 0 1px 0 rgba(255,255,255,0.2); border: 1px solid #1677ff; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
   ▶ 点击此处展开查看更多英文论文
 </summary>
+
 - 强化学习（本科生课程，2025年）
 - 高级强化学习（研究生课程，2025年秋）
 - 智能信息检索（研究生课程，2025年秋，with 徐君老师）
