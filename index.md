@@ -94,7 +94,7 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 
 <details>
 <summary style="display: inline-block; padding: 8px 18px; background-color: #0969da; color: #ffffff; border-radius: 6px; cursor: pointer; font-weight: 500; font-size: 15px;">
-  点击展开查看全部英文论文
+  **点击展开查看全部英文论文**
 </summary>
 <br>
   
@@ -275,4 +275,4 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 - 2011.11  全国大学生数学建模竞赛国家一等奖
 - 2010.11  全国大学生数学建模竞赛国家一等奖
 
-毕业生去向及更多相关信息可参见实验室主页：<a href="https://ruc-iir-lab.github.io/team/" target="_blank">https://ruc-iir-lab.github.io/team/</a>
+**毕业生去向及更多相关信息可参见实验室主页**：<a href="https://ruc-iir-lab.github.io/team/" target="_blank">https://ruc-iir-lab.github.io/team/</a>
