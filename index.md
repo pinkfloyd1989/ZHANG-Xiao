@@ -93,9 +93,10 @@ Yi Xu, Weiran Shen, Jun Xu, **Xiao Zhang***, Ji-Rong Wen. IBCB: Efficient invers
 Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2026, 20(10): 2010619. [https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5).  [ **可控学习（Controllable Learning）综述, 入选 FCS Excellent Young Computer Scientists Forum, 欢迎大家关注！**]
 
 <details>
-<summary style="display: inline-block; padding: 10px 22px; background-color: #0b5ed7; color: #ffffff; border-radius: 8px; cursor: pointer; font-weight: 700; font-size: 16px; box-shadow: 0 2px 8px rgba(11, 94, 215, 0.35); transition: background-color 0.2s ease;">
-  ▶ 点击展开查看全部英文论文
+<summary style="list-style: none; display: inline-block; padding: 12px 30px; background: linear-gradient(135deg, #1677ff 0%, #0047ab 100%); color: #ffffff; border-radius: 10px; cursor: pointer; font-weight: 900; font-size: 18px; box-shadow: 0 4px 15px rgba(0, 71, 171, 0.4), inset 0 1px 0 rgba(255,255,255,0.2); border: 1px solid #1677ff; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+  🔽 点击展开查看更多英文论文
 </summary>
+
 
 <br>
   
