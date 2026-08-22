@@ -94,7 +94,7 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 
 <details>
 <summary style="display: inline-block; padding: 8px 18px; background-color: #0969da; color: #ffffff; border-radius: 6px; cursor: pointer; font-weight: 500; font-size: 15px;">
-  **点击展开查看全部英文论文**
+  点击展开查看全部英文论文
 </summary>
 <br>
   
