@@ -3,7 +3,7 @@
   <tr>
     <td width="60%">
       <h1>张 骁</h1>
-      <p><b>中国人民大学，高瓴人工智能学院，预聘副教授，博导</b></p>
+      <p><b>中国人民大学，高瓴人工智能学院，副教授，博导</b></p>
       <p><b>电子邮箱：zhangx89@ruc.edu.cn</b></p>
     </td>
     <td width="40%">
@@ -17,7 +17,7 @@
  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
   <div>
     <h1 style="margin: 0;">张骁</h1>
-    <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，预聘副教授, 博导</p>
+    <p style="margin: 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，副教授, 博导</p>
     <p style="margin: 0; font-size: 1.2em;">电子邮箱：zhangx89@ruc.edu.cn</p>
   </div>
 </div>
