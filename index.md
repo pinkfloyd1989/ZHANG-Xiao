@@ -230,8 +230,6 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092.  
 
 ### 代表英文论文
-<details>
-<summary style="cursor: pointer; color: #0366d6;">点击展开查看全部英文论文</summary>
 
 Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
 
@@ -252,6 +250,9 @@ Chenglei Shen, Yi Zhan, Weijie Yu, **Xiao Zhang***, Jun Xu. Enhancing bandit alg
 Yi Xu, Weiran Shen, Jun Xu, **Xiao Zhang***, Ji-Rong Wen. IBCB: Efficient inverse batched contextual bandit for behavioral evolution history. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026.
 
 Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Ming He, Jianping Fan. A survey of controllable learning: Methods and applications in information retrieval. Frontiers of Computer Science (FCS), 2026, 20(10): 2010619. [https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-41366-5).  [ **可控学习（Controllable Learning）综述, 入选 FCS Excellent Young Computer Scientists Forum, 欢迎大家关注！**]
+
+<details>
+<summary style="cursor: pointer; color: #0366d6;">点击展开查看全部英文论文</summary>
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
@@ -389,7 +390,9 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 <summary style="cursor: pointer; color: #0366d6;">点击展开查看全部中文论文</summary>
 
 **张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019.  
+
 **张骁**, 胡清华, 廖士中. 基于多源共享因子的多张量填充. 中国科学 : 信息科学, 46(7): 819–833, 2016. (CCDM 最佳学生论文)
+
 廖芸, **张骁**, 廖士中. 统一框架下在线核选择的竞争性分析.  计算机科学与探索, 2019, DOI:10.3778/j.issn.1673-9418.1905092.  
 
 </details>
