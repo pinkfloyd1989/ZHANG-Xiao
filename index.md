@@ -836,7 +836,7 @@ International Conference on Pattern Recognition (ICPR 2018), 2256--2261,
 
 <sup>†</sup>: Equal contribution.
 
-</details>
+
 
 ### 代表中文论文
 **张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019.  
