@@ -240,11 +240,8 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 <sup>†</sup>: Equal contribution.
 
 <details>
-
 <summary>
-
 <b> 点击此处展开查看更多英文论文</b>
-
 </summary>
 
 <br>
