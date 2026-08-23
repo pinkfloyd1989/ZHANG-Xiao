@@ -58,7 +58,7 @@
   
 <details>
 <summary>
-<b>▶ 点击此处展开查看更多课程</b>
+<b> 点击此处展开查看更多课程</b>
 </summary>
 
 <br>
