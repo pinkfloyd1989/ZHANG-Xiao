@@ -241,6 +241,597 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 </details>
 
+<details>
+<summary>
+<b> 点击此处展开查看更多英文论文</b>
+</summary>
+
+<br>
+
+<ul>
+<li>
+
+Changshuo Zhang, <b>Xiao Zhang</b>*, Teng Shi, Jun Xu and Ji-Rong
+Wen. Test-time alignment with state space model for tracking user
+interest shifts in sequential recommendation. Proceedings of the 19th
+ACM Recommender Systems Conference (RecSys 2025).
+
+</li>
+
+<li>
+
+Chenglei Shen, Jiahao Zhao, <b>Xiao Zhang</b>*, Weijie Yu, Ming He
+and Jianping Fan. Paragon: Parameter generation for controllable
+multi-task recommendation. Proceedings of the 19th ACM Recommender
+Systems Conference (RecSys 2025).
+
+</li>
+
+<li>
+
+Guofu Xie, <b>Xiao Zhang</b>*, Ting Yao, Yunsheng Shi. Bone Soups:
+A seek-and-soup model merging approach for controllable multi-objective
+generation. Proceedings of the 63rd Annual Meeting of the Association
+for Computational Linguistics (ACL 2025 main conference).
+
+</li>
+
+<li>
+
+Weicong Qin, Yi Xu, Weijie Yu, Chenglei Shen, Ming He, Jianping Fan,
+<b>Xiao Zhang</b>, Jun Xu. MAPS: Motivation-aware personalized
+search via LLM-driven consultation alignment. Proceedings of the 63rd
+Annual Meeting of the Association for Computational Linguistics (ACL
+2025 main conference).
+
+</li>
+
+<li>
+
+Changshuo Zhang, Ang Gao, <b>Xiao Zhang</b>*, Yong Liu, Deyang Li,
+Fangchao Liu, Xinyu Zhang. Reward Mixology: Crafting Hybrid Signals for
+Reinforcement Learning Driven In-Context Learning. Proceedings of the
+2025 Conference on Empirical Methods in Natural Language Processing
+(EMNLP 2025 findings).
+
+</li>
+
+<li>
+
+Xiang Cheng, Chengyan Pan, Minjun Zhao, Deyang Li, Fangchao Liu, Xinyu
+Zhang, <b>Xiao Zhang</b>, Yong Liu. Revisiting Chain-of-Thought
+Prompting: Zero-shot Can Be Stronger than Few-shot. Proceedings of the
+2025 Conference on Empirical Methods in Natural Language Processing
+(EMNLP 2025 findings).
+
+</li>
+
+<li>
+
+Weicong Qin, Yi Xu, Weijie Yu, Teng Shi, Chenglei Shen, Ming He,
+Jianping Fan, <b>Xiao Zhang</b>, Jun Xu. Similarity = Value?
+Consultation Value-Assessment and Alignment for Personalized Search.
+Proceedings of the 2025 Conference on Empirical Methods in Natural
+Language Processing (EMNLP 2025 main conference).
+
+</li>
+
+<li>
+
+Zhiyuan Su, Sunhao Dai, <b>Xiao Zhang</b>*. Revisiting clustering
+of neural bandits: Selective reinitialization for mitigating loss of
+plasticity. Proceedings of the 31st SIGKDD Conference on Knowledge
+Discovery and Data Mining (KDD 2025).
+
+</li>
+
+<li>
+
+Yi-Fan Zhang<sup>†</sup>, <b>Xiao
+Zhang</b>``<sup>†</sup>, Min-Ling Zhang. Generalization
+analysis for controllable learning. Proceedings of the 42nd
+International Conference on Machine Learning (ICML 2025).
+
+</li>
+
+<li>
+
+Dongxie Wen, <b>Xiao Zhang</b>*, Zhewei Wei, Chenping Hou, Shuai
+Li, Weinan Zhang. Fast second-order online kernel learning through
+incremental matrix sketching and decomposition. Proceedings of the 34th
+International Joint Conference on Artificial Intelligence (IJCAI 2025).
+
+</li>
+
+<li>
+
+Changle Qu, Liqin Zhao, Yanan Niu, <b>Xiao Zhang</b>*, and Jun Xu.
+Bridging short videos and streamers with multi-graph contrastive
+learning for live streaming recommendation. Proceedings of the 48th
+International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2025).
+
+</li>
+
+<li>
+
+Zhongxiang Sun, Qipeng Wang, Weijie Yu, Xiaoxue Zang, Kai Zheng, Jun Xu,
+<b>Xiao Zhang</b>, Yang Song and Han Li. Trustworthy process
+rewarding for retrieval-augmented reasoning. Proceedings of the 48th
+International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2025).
+
+</li>
+
+<li>
+
+Teng Shi, Jun Xu, <b>Xiao Zhang</b>, Xiaoxue Zang, Kai Zheng, Yang
+Song and Han Li. Retrieval augmented generation with collaborative
+filtering for personalized text generation. Proceedings of the 48th
+International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2025).
+
+</li>
+
+<li>
+
+Haoyu Wang, Sunhao Dai, Haiyuan Zhao, Liang Pang, <b>Xiao Zhang</b>,
+Gang Wang, Zhenhua Dong, Jun Xu, Ji-Rong Wen. Perplexity trap: PLM-Based
+retrievers overrate low perplexity documents. Proceedings of the 13th
+International Conference on Learning Representations (ICLR 2025).
+
+</li>
+
+<li>
+
+ZhongXiang Sun, Xiaoxue Zang, Kai Zheng, Jun Xu, <b>Xiao Zhang</b>,
+Weijie Yu, Yang Song, Han Li. ReDeEP: Detecting hallucination in
+retrieval-augmented generation via mechanistic interpretability.
+Proceedings of the 13th International Conference on Learning
+Representations (ICLR 2025).
+
+</li>
+
+<li>
+
+ZhongXiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, <b>Xiao
+Zhang</b>, Jun Xu. LargePiG for Hallucination-free query generation:
+Your large language model is secretly a pointer generator. Proceedings
+of the Web Conference 2025 (WWW 2025).
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Sunhao Dai, Jun Xu, Yong Liu, Zhenhua Dong.
+AdaO2B: Adaptive online to batch conversion for out-of-distribution
+generalization. Proceedings of the 39th Annual AAAI Conference on
+Artificial Intelligence (AAAI 2025).
+
+</li>
+
+<li>
+
+Kepu Zhang, Zhongxiang Sun, <b>Xiao Zhang</b>*, Xiaoxue Zang, Kai
+Zheng, Yang Song, Jun Xu. Trigger^3: Refining query correction via
+adaptive model selector. Proceedings of the 39th Annual AAAI Conference
+on Artificial Intelligence (AAAI 2025).
+
+</li>
+
+<li>
+
+Chenglei Shen, Guofu Xie, <b>Xiao Zhang</b>* and Jun Xu. On the
+decision-making abilities in role-playing using large language models.
+Proceedings of the 39th Annual AAAI Conference on Artificial
+Intelligence (AAAI 2025, CMASDL Workshop).
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Teng Shi, Jun Xu, Zhenhua Dong, Ji-Rong-Wen.
+Model-agnostic causal embedding learning for counterfactually group-fair
+recommendation. IEEE Transactions on Knowledge and Data Engineering
+(TKDE), doi: 10.1109/TKDE.2024.3424906.
+
+</li>
+
+<li>
+
+Yuan Wang, Zhiyu Li, Changshuo Zhang, Sirui Chen, <b>Xiao
+Zhang</b>*, Jun Xu, Quan Lin. Do not wait: Learning re-ranking model
+without user feedback at serving time in e-commerce. Proceedings of the
+18th ACM Conference on Recommender Systems (RecSys 2024), short paper.
+
+</li>
+
+<li>
+
+Kepu Zhang, Teng Shi, Sunhao Dai, <b>Xiao Zhang</b>*, Yinfeng Li,
+Jing Lu, Xiaoxue Zang, Yang Song, Jun Xu. SAQRec: Aligning recommender
+systems to user satisfaction via questionnaire feedback. Proceedings of
+the 33rd ACM International Conference on Information and Knowledge
+Management (CIKM 2024).
+
+</li>
+
+<li>
+
+Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Kai Zheng, Yang Song, <b>Xiao
+Zhang</b>, Jun Xu. Large language models enhanced collaborative
+filtering. Proceedings of the 33rd ACM International Conference on
+Information and Knowledge Management (CIKM 2024).
+
+</li>
+
+<li>
+
+Sunhao Dai, Yuqi Zhou, Liang Pang, Weihao Liu, Xiaolin Hu, Yong Liu,
+<b>Xiao Zhang</b>, Gang Wang, Jun Xu. Neural retrievers are biased
+towards LLM-generated content. Proceedings of the 30th ACM SIGKDD
+Conference on Knowledge Discovery and Data Mining (KDD 2024).
+
+</li>
+
+<li>
+
+Hanyan Yin, Dongxie Wen, Jiajun Li, Zhewei Wei, <b>Xiao Zhang</b>,
+Zengfeng Huang, Feifei Li. Optimal matrix sketching over sliding
+windows. Proceedings of the 50th International Conference on Very Large
+Databases (VLDB 2024). (<b>最佳论文提名, Best Research Paper
+Nominations</b>)
+
+</li>
+
+<li>
+
+Chen Xu, Xiaopeng Ye, Jun Xu, <b>Xiao Zhang</b>, Weiran Shen,
+Ji-Rong Wen. LTP-MMF: Toward long-term provider max-min fairness under
+recommendation feedback loops. ACM Transactions on Information Systems
+(TOIS), 43(1): 1-29.
+
+</li>
+
+<li>
+
+ZhongXiang Sun, Kepu Zhang, Haoyu Wang, <b>Xiao Zhang</b>, Jun Xu.
+Effective in-context example selection through data compression. ACL
+Findings (2024).
+
+</li>
+
+<li>
+
+Changshuo Zhang, Sirui Chen, <b>Xiao Zhang</b>*, Sunhao Dai, Weijie
+Yu and Jun Xu. Reinforcing long-term performance in recommender systems
+with user-oriented exploration policy. Proceedings of the 47th
+International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2024).
+
+</li>
+
+<li>
+
+Zhongxiang Sun, Zihua Si, <b>Xiao Zhang</b>, Xiaoxue Zang, Yang
+Song, Hongteng Xu and Jun Xu. To search or to recommend: Predicting
+open-app motivation with neural Hawkes process. Proceedings of the 47th
+International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2024).
+
+</li>
+
+<li>
+
+Teng Shi, Zihua Si, Jun Xu, <b>Xiao Zhang</b>, Xiaoxue Zang, Kai
+Zheng, Dewei Leng, Yanan Niu and Yang Song. UniSAR: Modeling user
+transition behaviors between search and recommendation. Proceedings of
+the 47th International ACM SIGIR Conference on Research and Development
+in Information Retrieval (SIGIR 2024).
+
+</li>
+
+<li>
+
+Sunhao Dai, Changle Qu, Sirui Chen, <b>Xiao Zhang</b> and Jun Xu.
+ReCODE: Modeling repeat consumption with neural ODE. Proceedings of the
+47th International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2024), short paper. (<b>最佳短文提名,
+Best Short Paper Nominee</b>)
+
+</li>
+
+<li>
+
+Zihua Si, Zhongxiang Sun, Jiale Chen, Guozhang Chen, Xiaoxue Zang, Kai
+Zheng, Yang Song, <b>Xiao Zhang</b>, Jun Xu and Kun Gai. Generative
+retrieval with semantic tree-structured identifiers and contrastive
+learning. Proceedings of the 2nd International ACM SIGIR Conference on
+Information Retrieval in the Asia Pacific (SIGIR-AP 2024).
+(<b>最佳论文奖, Best Paper Reward</b>)
+
+</li>
+
+<li>
+
+Peiyu Liu, Ze-Feng Gao, <b>Xiao Zhang</b>, Wayne Xin Zhao, Ji-Rong
+Wen. Enhancing parameter-efficient fine-tuning with simple calibration
+based on stable rank. Proceedings of the 2024 Joint International
+Conference on Computational Linguistics, Language Resources and
+Evaluation (LREC-COLING 2024).
+
+</li>
+
+<li>
+
+Chen Xu, Jun Xu, Yiming Ding, <b>Xiao Zhang</b>, Qi Qi. FairSync:
+Ensuring amortized group exposure in distributed recommendation
+retrieval. Proceedings of the 2024 ACM Web Conference (WWW 2024).
+
+</li>
+
+<li>
+
+Jianwen Yang, <b>Xiao Zhang</b>*, Jun Xu. Smooth start: a unified
+approach for gradual transition from cold to old in recommender systems.
+Proceedings of the 49th IEEE International Conference on Acoustics,
+Speech, & Signal Processing (ICASSP 2024).
+
+</li>
+
+<li>
+
+Sunhao Dai, Ninglu Shao, Jieming Zhu, <b>Xiao Zhang</b>, Zhenhua
+Dong, Jun Xu, Quanyu Dai, Ji-Rong Wen. Modeling user attention in music
+recommendation. Proceedings of the 40th IEEE International Conference on
+Data Engineering (ICDE 2024).
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Ninglu Shao, Zihua Si, Jun Xu, Wenhan Wang,
+Hanjing Su, Ji-Rong Wen. Reward imputation with sketching for contextual
+batched bandits. Advances in Neural Information Processing Systems 35
+(NeurIPS 2023), 64577-64588, 2023.
+
+</li>
+
+<li>
+
+Chuhao Jin, Yutao Zhu, Lingzhen Kong, Shijie Li, <b>Xiao Zhang</b>,
+Ruihua Song, Xu Chen, Yuchong Sun, Yu Chen, Jun Xu. Joint semantic and
+strategy matching for persuasive dialogue. Proceedings of the 2023
+Conference on Empirical Methods in Natural Language Processing (Findings
+of EMNLP).
+
+</li>
+
+<li>
+
+Chenglei Shen, <b>Xiao Zhang</b>*, Wei Wei, Jun Xu. HyperBandit:
+Contextual bandit with hypernewtork for time-varying user preferences in
+streaming recommendation. Proceedings of the 32nd ACM International
+Conference on Information and Knowledge Management (CIKM 2023),
+2239--2248, 2023.
+
+</li>
+
+<li>
+
+Zhongxiang Sun, Zihua Si, Xiaoxue Zang, Dewei Leng, Yanan Niu, Yang
+Song, <b>Xiao Zhang</b>, Jun Xu. KuaiSAR: A unified search and
+recommendation dataset, Proceedings of the 32nd ACM International
+Conference on Information and Knowledge Management (CIKM 2023 Resource
+Paper).
+
+</li>
+
+<li>
+
+Sirui Chen, Yuan Wang, Zijing Wen, Zhiyu Li, Changshuo Zhang, <b>Xiao
+Zhang</b>*, Quan Lin, Cheng Zhu, Jun Xu. Controllable multi-objective
+re-ranking with policy hypernetworks. Proceedings of the 29th ACM SIGKDD
+Conference on Knowledge Discovery and Data Mining (KDD 2023).
+
+</li>
+
+<li>
+
+Zhongxiang Sun, Jun Xu, <b>Xiao Zhang</b>, Zhenhua Dong and Ji-Rong
+Wen. Law article-enhanced legal case matching: A causal learning
+approach. Proceedings of the 46th International ACM SIGIR Conference on
+Research and Development in Information Retrieval (SIGIR 2023).
+
+</li>
+
+<li>
+
+Zihua Si, Zhongxiang Sun, <b>Xiao Zhang</b>*, Jun Xu, Xiaoxue Zang,
+Yang Song, Kun Gai and Ji-Rong Wen. When search meets recommendation:
+Learning disentangled search representation for recommendation.
+Proceedings of the 46th International ACM SIGIR Conference on Research
+and Development in Information Retrieval (SIGIR 2023), 1313-1323, 2023.
+
+</li>
+
+<li>
+
+Sunhao Dai, Ninglu Shao, Haiyuan Zhao, Weijie Yu, Zihua Si, Chen Xu,
+Zhongxiang Sun, <b>Xiao Zhang</b> and Jun Xu. Uncovering ChatGPT's
+capabilities in recommender systems. RecSys 2023 Late Breaking Results
+(LBR) track, 2023.
+
+</li>
+
+<li>
+
+Sirui Chen, <b>Xiao Zhang</b>, Xu Chen, Zhiyu Li, Yuan Wang, Quan
+Lin and Jun Xu. Reinforcement re-ranking with 2D grid-based
+recommendation panels. Proceedings of the 1st International ACM SIGIR
+Conference on Information Retrieval in the Asia Pacific, 2023.
+
+</li>
+
+<li>
+
+Haiyuan Zhao, Jun Xu, <b>Xiao Zhang</b>, Guohao Cai, Zhenhua Dong
+and Ji-Rong Wen. Unbiased top-$k$ learning to rank with causal
+likelihood decomposition. Proceedings of the 1st International ACM SIGIR
+Conference on Information Retrieval in the Asia Pacific, 2023.
+(<b>最佳论文奖, Best Paper Reward</b>)
+
+</li>
+
+<li>
+
+Chen Xu, Sirui Chen, Jun Xu, Weiran Shen, <b>Xiao Zhang</b>, Gang
+Wang, Zhenhua Dong. P-MMF: Provider max-min fairness re-ranking in
+recommender system. Proceedings of the Web Conference 2023 (WWW 2023),
+2023. (<b>Spotlight-最佳论文提名奖</b>)
+
+</li>
+
+<li>
+
+Zihua Si, Zhongxiang Sun, <b>Xiao Zhang</b>, Jun Xu, Yang Song,
+Xiaoxue Zang, Ji-Rong Wen. Enhancing recommendation with search data in
+a causal learning manner. ACM Transactions on Information Systems
+(TOIS), 2023.
+
+</li>
+
+<li>
+
+Haiyuan Zhao, Jun Xu, <b>Xiao Zhang</b>, Guohao Cai, Zhenhua Dong,
+Ji-Rong Wen. Separating examination and trust bias from click
+predictions for unbiased relevance ranking. Proceedings of the 16th ACM
+International Conference on Web Search and Data Mining (WSDM 2023).
+
+</li>
+
+<li>
+
+Haonan Jia, <b>Xiao Zhang</b>, Jun Xu, Wei Zeng, Hao Jiang, Xiaohui
+Yan. Variance reduction for deep Q-Learning using stochastic recursive
+gradient, Proceedings of the 29th International Conference on Neural
+Information Processing (ICONIP 2022).
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Sunhao Dai, Jun Xu, Zhenhua Dong, Quanyu Dai,
+Ji-Rong Wen. Counteracting user attention bias in music streaming
+recommendation via reward modification. Proceedings of the 28th ACM
+SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022),
+2504--2514, 2022.
+
+</li>
+
+<li>
+
+Zihua Si, Xueran Han, <b>Xiao Zhang</b>, Jun Xu, Yue Yin, Yang Song,
+Ji-Rong Wen. A model-agnostic causal learning framework for
+recommendation using search data. Proceedings of the Web Conference 2022
+(WWW 2022), 224--233, 2022.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Haonan Jia, Hanjing Su, Wenhan Wang, Jun Xu,
+Ji-Rong Wen. Counterfactual reward modification for streaming
+recommendation with delayed feedback. Proceedings of the 44th
+International ACM SIGIR Conference on Research and Development in
+Information Retrieval (SIGIR 2021), 41-50, 2021.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Shizhong Liao, Jun Xu, Ji-Rong Wen. Regret bounds
+for online kernel selection in continuous kernel space. Proceedings of
+the 35th AAAI Conference on Artificial Intelligence (AAAI 2021),
+10931-10938, 2021.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Shizhong Liao. Hypothesis sketching for online
+kernel selection in continuous kernel space. Proceedings of the 29th
+International Joint Conference on Artificial Intelligence (IJCAI 2020),
+2498--2504, 2020.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Shizhong Liao. Incremental randomized sketching
+for online kernel learning. Proceedings of the 36th International
+Conference on Machine Learning (ICML 2019), 7394--7403, 2019.
+
+</li>
+
+<li>
+
+Shizhong Liao, <b>Xiao Zhang</b>*. Online kernel selection via
+tensor sketching. Proceedings of the 28th ACM International Conference
+on Information and Knowledge Management (CIKM 2019), 801--810, 2019.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Shizhong Liao. Online kernel selection via
+incremental sketched kernel alignment. Proceedings of the 27th
+International Joint Conference on Artificial Intelligence (IJCAI 2018),
+3118--3124, 2018.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Shizhong Liao. Tensor completion via
+multi-shared-modes canonical correlation analysis. Neurocomputing, 205:
+106--115, 2016.
+
+</li>
+
+<li>
+
+<b>Xiao Zhang</b>, Yun Liao, Shizhong Liao. A survey on online
+kernel selection for online kernel learning. WIREs Data Mining and
+Knowledge Discovery, 9(2): e1295, 2019.
+
+</li>
+
+<li>
+
+Shan Xu, <b>Xiao Zhang</b>, Shizhong Liao. New online kernel ridge
+regression via incremental predictive sampling. Proceedings of the 28th
+ACM International Conference on Information and Knowledge Management
+(CIKM 2019), 791--800, 2019.
+
+</li>
+
+<li>
+
+Shan Xu, <b>Xiao Zhang</b>, Shizhong Liao. A linear incremental
+Nystrom method for online kernel learning. Proceedings of the 24th
+International Conference on Pattern Recognition (ICPR 2018), 2256--2261,
+2018. (<b>Best Student Paper</b>)
+</li>
+
+</ul>
+
+*: Corresponding author.
+
+<sup>†</sup>: Equal contribution.
+
+</details>
+
 ### 代表中文论文
 **张骁**, 廖士中. 基于局部后悔的在线核选择. 计算机学报, 42(1): 61–72, 2019.  
 
