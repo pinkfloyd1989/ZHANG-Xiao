@@ -105,7 +105,7 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 
 <details>
 <summary>
-<b>▶ 点击此处展开查看更多英文论文</b>
+<b> 点击此处展开查看更多英文论文</b>
 </summary>
 
 <br>
