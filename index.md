@@ -108,7 +108,6 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 <b> 点击此处展开查看更多英文论文</b>
 </summary>
 
-
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
 Chenglei Shen, Jiahao Zhao, **Xiao Zhang***, Weijie Yu, Ming He and Jianping Fan. Paragon: Parameter generation for controllable multi-task recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
