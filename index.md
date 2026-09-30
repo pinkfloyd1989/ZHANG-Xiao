@@ -38,7 +38,7 @@
 {: style="padding-left: 12.5em; text-indent: -12.5em; word-break: keep-all; margin: 0.5em 0;"}
 
 •&nbsp;**大模型与信息检索应用：** 大模型可控生成与高效推理，大模型赋能的信息获取智能体、个性化推荐算法。
-{: style="padding-left: 12.5em; text-indent: -12.5em; word-break: keep-all; margin: 0.5em 0;"}
+{: style="padding-left: 12.5em; text-indent: -13.5em; word-break: keep-all; margin: 0.5em 0;"}
 
 
 <div align="center">
