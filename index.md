@@ -40,6 +40,13 @@
 </ul>
 </div>
 
+<div style="word-break: keep-all;">
+<ul style="padding-left: 1.4em; margin-top: 0.4em;">
+<li style="margin-bottom: 0.5em;"><b>自适应机器学习：</b>面向大模型的持续学习、自适应自演进、测试时训练算法研究，强化学习及在线学习的理论分析与算法设计。</li>
+<li style="margin-bottom: 0.5em;"><b>可信可控人工智能：</b>可控机器学习、无偏机器学习、公平机器学习方法研究。</li>
+<li style="margin-bottom: 0.5em;"><b>大模型与信息检索应用：</b>大模型可控生成与高效推理，大模型赋能的信息获取智能体、个性化推荐算法。</li>
+</ul>
+</div>
 
 
 
