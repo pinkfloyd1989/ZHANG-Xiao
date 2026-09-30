@@ -42,7 +42,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/RSI%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91.gif" alt="Main.gif">
+  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/RSI%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91.gif" alt="Main">
 </div>
 
 ### **个人简介**
