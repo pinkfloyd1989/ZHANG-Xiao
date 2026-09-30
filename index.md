@@ -32,13 +32,13 @@
 ### **研究兴趣**
 
 •&nbsp;**自适应机器学习：** 面向大模型的持续学习、自适应递归演进、测试时训练算法研究，强化学习及在线学习的理论分析与算法设计。
-{: style="padding-left: 12.5em; text-indent: -10em; word-break: keep-all; margin: 0.5em 0;"}
+{: style="padding-left: 12.5em; text-indent: -9em; word-break: keep-all; margin: 0.5em 0;"}
 
 •&nbsp;**可信可控人工智能：** 可控机器学习、无偏机器学习、公平机器学习方法研究。
 {: style="padding-left: 12.5em; text-indent: -12.5em; word-break: keep-all; margin: 0.5em 0;"}
 
 •&nbsp;**大模型与信息检索应用：** 大模型可控生成与高效推理，大模型赋能的信息获取智能体、个性化推荐算法。
-{: style="padding-left: 12.5em; text-indent: -11.5em; word-break: keep-all; margin: 0.5em 0;"}
+{: style="padding-left: 12.5em; text-indent: -12em; word-break: keep-all; margin: 0.5em 0;"}
 
 
 <div align="center">
