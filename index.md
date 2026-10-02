@@ -132,11 +132,6 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 
 <div markdown="block" style="max-height: 480px; overflow-y: auto; border: 1px solid #ddd; border-radius: 6px; padding: 10px 20px; margin-top: 12px;">
 
-（论文列表原文不动，整段放在这里）
-
-</div>
-
-</details>
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
@@ -267,7 +262,12 @@ Shan Xu, **Xiao Zhang**, Shizhong Liao. A linear incremental Nystrom method for 
 
 <sup>†</sup>: Equal contribution.
 
+</div>
+
 </details>
+
+
+
 
 <!-- 
 ### 代表中文论文
