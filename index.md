@@ -26,7 +26,7 @@ section img { max-width: 100% !important; }
     <p style="margin: 0 0 4px 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，副教授，博导</p>
     <p style="margin: 0 0 12px 0; font-size: 1.1em;">电子邮箱：zhangx89@ruc.edu.cn</p>
     <p style="margin: 0 0 12px 0; font-size: 0.95em; color: #555;">
-      <b>研究方向：</b>自适应机器学习 &nbsp;·&nbsp; 可信可控人工智能 &nbsp;·&nbsp; 大模型与信息检索应用
+      我们必须知道，我们必将知道。
     </p>
     <p style="margin: 0; font-size: 0.95em;">
       <a href="https://pinkfloyd1989.github.io/Xiao_Zhang/">English Homepage</a> &nbsp;|&nbsp;
