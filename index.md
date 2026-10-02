@@ -82,7 +82,7 @@ section img { max-width: 100% !important; }
 <b> 点击此处展开查看更多课程</b>
 </summary>
 
-<br>
+<div style="max-height: 240px; overflow-y: auto; border: 1px solid #ddd; border-radius: 6px; padding: 5px 20px; margin-top: 12px;">
 
 <ul>
 <li>强化学习（本科生课程，2025年）</li>
@@ -99,6 +99,8 @@ section img { max-width: 100% !important; }
 <li>高级强化学习（研究生课程，2022年秋）</li>
 <li>海量数据挖掘（研究生课程，2021年秋，with 刘勇老师）</li>
 </ul>
+
+</div>
 
 </details>
 
