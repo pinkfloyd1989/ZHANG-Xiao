@@ -132,6 +132,7 @@ Chenglei Shen, **Xiao Zhang***, Teng Shi, Changshuo Zhang, Guofu Xie, Jun Xu, Mi
 
 <div markdown="block" style="max-height: 480px; overflow-y: auto; border: 1px solid #ddd; border-radius: 6px; padding: 10px 20px; margin-top: 12px;">
 
+<\br>
 
 Changshuo Zhang, **Xiao Zhang***, Teng Shi, Jun Xu and Ji-Rong Wen. Test-time alignment with state space model for tracking user interest shifts in sequential recommendation. Proceedings of the 19th ACM Recommender Systems Conference (RecSys 2025).
 
