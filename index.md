@@ -1,14 +1,7 @@
 <style>
-.wrapper {
-  max-width: 1280px !important;  /* 原值一般是960px，调大；1400更宽 */
-}
-.markdown-body {
-  max-width: 100% !important;
-}
-.markdown-body p,
-.markdown-body li {
-  max-width: unset !important;
-}
+.wrapper { width: 1280px !important; max-width: 95% !important; }
+section  { width: calc(100% - 310px) !important; max-width: 970px !important; }
+section img { max-width: 100% !important; }
 </style>
 
 <!--
