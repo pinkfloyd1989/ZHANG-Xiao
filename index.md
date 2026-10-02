@@ -14,6 +14,11 @@ section li { margin: 3px 0; }
 
 /* 4. 章节标题之间留白多一点，页面更疏朗 */
 h3 { margin-top: 44px; }
+
+header, footer { display: none !important; }
+section { float: none !important; margin: 0 auto !important; }
+.wrapper { margin: 0 auto !important; }
+  
 </style>
 
 <!--
