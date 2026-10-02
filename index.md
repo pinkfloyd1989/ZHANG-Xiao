@@ -49,7 +49,7 @@ section img { max-width: 100% !important; }
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/RSI%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91-1.gif" alt="RSI流程与研究方向-1">
+  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/RSI%E6%B5%81%E7%A8%8B%E4%B8%8E%E7%A0%94%E7%A9%B6%E6%96%B9%E5%90%91-1.gif" alt="RSI流程与研究方向-1" style="width: 85%;">
 </div>
 
 
