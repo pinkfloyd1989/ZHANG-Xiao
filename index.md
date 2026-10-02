@@ -1,6 +1,6 @@
 <style>
 /* 页面宽度：想再宽就加大这两个数 */
-.wrapper { width: 1250px !important; max-width: 95% !important; margin: 0 0 0 6% !important; }
+.wrapper { width: 1250px !important; max-width: 85% !important; margin: 0 0 0 6% !important; }
 section  { width: 100% !important; max-width: none !important; float: none !important; margin: 0 auto !important; }
 body     { padding-right: 0 !important; }
 body { font-size: 16px !important; }
