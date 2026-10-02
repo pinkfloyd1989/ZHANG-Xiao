@@ -19,22 +19,6 @@ section img { max-width: 100% !important; }
 </table>
 -->
 
-<div style="display: flex; align-items: center; gap: 50px;">
- <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 210px; flex-shrink: 0; margin: 0;">
-  <div>
-    <h1 style="margin: 0 0 8px 0;">张骁</h1>
-    <p style="margin: 0 0 4px 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，副教授，博导</p>
-    <p style="margin: 0 0 12px 0; font-size: 1.1em;">电子邮箱：zhangx89@ruc.edu.cn</p>
-    <p style="margin: 0 0 12px 0; font-size: 0.95em; color: #555;">
-      我们必须知道，我们必将知道。
-    </p>
-    <p style="margin: 0; font-size: 0.95em;">
-      <a href="https://pinkfloyd1989.github.io/Xiao_Zhang/">English Homepage</a> &nbsp;|&nbsp;
-      <a href="https://ruc-iir-lab.github.io/team/" target="_blank">实验室主页</a>
-    </p>
-  </div>
-</div>
-
 <!--
 <div style="display: flex; align-items: center;">
  <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 20%; margin-right: 50px;">
@@ -49,7 +33,21 @@ section img { max-width: 100% !important; }
 /){: .btn .btn-outline }
 -->
 
-  
+<div style="display: flex; align-items: center; gap: 50px;">
+ <img src="https://raw.githubusercontent.com/pinkfloyd1989/ZHANG-Xiao/master/zx-1.jpg" style="border-radius: 50%; width: 210px; flex-shrink: 0; margin: 0;">
+  <div>
+    <h1 style="margin: 0 0 8px 0;">张骁</h1>
+    <p style="margin: 0 0 4px 0; font-size: 1.2em;">中国人民大学，高瓴人工智能学院，副教授，博导</p>
+    <p style="margin: 0 0 12px 0; font-size: 1.1em;">电子邮箱：zhangx89@ruc.edu.cn</p>
+    <p style="margin: 0 0 12px 0; font-size: 1.05em; color: #555; font-style: italic;">
+      我们必须知道，我们必将知道。
+    </p>
+    <p style="margin: 0; font-size: 0.95em;">
+      <a href="https://pinkfloyd1989.github.io/Xiao_Zhang/">English Homepage</a> &nbsp;|&nbsp;
+      <a href="https://ruc-iir-lab.github.io/team/" target="_blank">实验室主页</a>
+    </p>
+  </div>
+</div>
 
 
 ### **研究兴趣**
