@@ -72,7 +72,7 @@
 - 人工智能前沿技术与创新应用（研究生课程, 2026年春，任课教师之一）
   
 <details markdown="block">
-<summary>
+<summary style="color:#0066cc; cursor:pointer;">
 <b> 点击此处展开查看更多课程</b>
 </summary>
 
