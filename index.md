@@ -1,24 +1,25 @@
 <style>
-.wrapper { width: 1150px !important; max-width: 95% !important; }
-section  { width: calc(100% - 310px) !important; max-width: 840px !important; }
+/* 页面宽度：想再宽就加大这两个数 */
+.wrapper { width: 1250px !important; max-width: 95% !important; margin: 0 0 0 6% !important; }
+section  { width: 100% !important; max-width: none !important; float: none !important; margin: 0 auto !important; }
+body     { padding-right: 0 !important; }
+
+/* 图片 */
 section img { max-width: 100% !important; }
-/* 1. GIF 去掉灰色边框（主题默认给所有图片加边框），间距也更紧凑 */
 section img[src$=".gif"] { border: none !important; padding: 0 !important; margin: 16px 0 24px 0 !important; }
 
-/* 2. 链接统一为蓝色（dinky 默认是暗红，和你的动图、折叠按钮的蓝色不搭） */
+/* 链接蓝色 */
 a { color: #0066cc; }
 
-/* 3. 列表改为悬挂缩进：条目换行时对齐到文字而不是圆点下方 */
+/* 列表悬挂缩进 */
 section ul { list-style-position: outside; padding-left: 1.5em; }
 section li { margin: 3px 0; }
 
-/* 4. 章节标题之间留白多一点，页面更疏朗 */
+/* 章节标题留白 */
 h3 { margin-top: 44px; }
 
+/* 隐藏主题侧栏和页脚 */
 header, footer { display: none !important; }
-section { float: none !important; margin: 0 auto !important; }
-.wrapper { margin: 0 0 0 6% !important; }   /* 原来是 margin: 0 auto（居中），改成靠左，6% 可以按喜好调 */
-  
 </style>
 
 <!--
