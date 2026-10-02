@@ -4,6 +4,8 @@
 section  { width: 100% !important; max-width: none !important; float: none !important; margin: 0 auto !important; }
 body     { padding-right: 0 !important; }
 body { font-size: 16px !important; }
+h3 { font-size: 20px !important; }   /* 各节标题，原 18px */
+h1 { font-size: 32px !important; }   /* 你的名字，原 30px */
 
 /* 图片 */
 section img { max-width: 100% !important; }
