@@ -1,3 +1,16 @@
+<style>
+.wrapper {
+  max-width: 1280px !important;  /* 原值一般是960px，调大；1400更宽 */
+}
+.markdown-body {
+  max-width: 100% !important;
+}
+.markdown-body p,
+.markdown-body li {
+  max-width: unset !important;
+}
+</style>
+
 <!--
 <table border="0">
   <tr>
