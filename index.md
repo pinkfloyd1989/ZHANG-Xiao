@@ -17,7 +17,7 @@ h3 { margin-top: 44px; }
 
 header, footer { display: none !important; }
 section { float: none !important; margin: 0 auto !important; }
-.wrapper { margin: 0 auto !important; }
+.wrapper { margin: 0 0 0 6% !important; }   /* 原来是 margin: 0 auto（居中），改成靠左，6% 可以按喜好调 */
   
 </style>
 
