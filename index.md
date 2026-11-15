@@ -142,6 +142,18 @@ header, footer { display: none !important; }
 
 ### **代表英文论文**
 
+Zidong Jia, Guofu Xie and **Xiao Zhang***. RecSoup: Efficient model merging approach for controllable multi-objective recommendation. Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
+
+Chen Zhang, Kepu Zhang, Jiatong Zhang, **Xiao Zhang*** and Jun Xu. Sandwich reasoning: An answer-reasoning-answer approach for low-latency query correction. Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
+
+Ang Gao, Changshuo Zhang,  **Xiao Zhang***, Deyang Li, Minjun Zhao, Fangchao Liu and Xinyu Zhang. Process in-context learning: Confusion-aware demonstration retrieval and dynamic insertion for mathematical reasoning. Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
+
+Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
+
+Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
+
+Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
+
 Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
 
 Yuan Wang, Zhiyu Li, Ang Gao, Changshuo Zhang, **Xiao Zhang***, Jun Xu, Quan Lin. Large-scale online learning for generative list recommendation in E-commerce: An environment policy optimization approach. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
