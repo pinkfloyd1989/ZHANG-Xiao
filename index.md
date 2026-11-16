@@ -142,9 +142,9 @@ header, footer { display: none !important; }
 
 ### **代表英文论文**
 
-Ke Guo, Changle Qu, Jiayaqi Cheng, Xiao Zhang, Shijun Wang, Xiaoyu Zhang, Xueliang Wang, Le Zhang, Lantao Hu, Jun Xu. KuaiLive-M3: A multi-modal, multi-domain, and multi-feedback dataset for live streaming recommendation. Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).
+Ke Guo, Changle Qu, Jiayaqi Cheng, **Xiao Zhang***, Shijun Wang, Xiaoyu Zhang, Xueliang Wang, Le Zhang, Lantao Hu, Jun Xu. KuaiLive-M3: A multi-modal, multi-domain, and multi-feedback dataset for live streaming recommendation. Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).
 
-Ang Gao, Changshuo Zhang, Xiao Zhang, Xiaopeng Ye, Xiaoxue Zang, Jun Xu. Beyond uniform entropy: Adaptive exploration via dual-entropy alignment for streaming generative re-ranking. Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).
+Ang Gao, Changshuo Zhang, **Xiao Zhang***, Xiaopeng Ye, Xiaoxue Zang, Jun Xu. Beyond uniform entropy: Adaptive exploration via dual-entropy alignment for streaming generative re-ranking. Proceedings of the 33rd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026).
 
 Zidong Jia, Guofu Xie and **Xiao Zhang***. RecSoup: Efficient model merging approach for controllable multi-objective recommendation. Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026).
 
