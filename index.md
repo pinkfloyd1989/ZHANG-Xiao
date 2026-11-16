@@ -154,12 +154,6 @@ Ang Gao, Changshuo Zhang,  **Xiao Zhang***, Deyang Li, Minjun Zhao, Fangchao Liu
 
 Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
 
-Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
-
-Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
-
-Haoyu Wang, Yifan Shang, Zhongxiang Sun, Weijie Yu, **Xiao Zhang***, Jun Xu. Towards understanding continual factual knowledge acquisition of language models: From theory to algorithm. Proceedings of the 43rd International Conference on Machine Learning (ICML 2026).
-
 Yuan Wang, Zhiyu Li, Ang Gao, Changshuo Zhang, **Xiao Zhang***, Jun Xu, Quan Lin. Large-scale online learning for generative list recommendation in E-commerce: An environment policy optimization approach. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
 
 Chenglei Shen, Teng Shi, Weijie Yu, **Xiao Zhang***, Jun Xu. GenRecEdit: Adapting model editing for generative recommendation with cold-start items. Proceedings of the 54th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2026).
